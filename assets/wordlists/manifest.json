@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Goethe A1 Wordlist",
+    "path": "assets/wordlists/goethe-a1.json"
+  },
+  {
+    "label": "Goethe A2 Wordlist",
+    "path": "assets/wordlists/goethe-a2.json"
+  }
+]

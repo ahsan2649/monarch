@@ -1,0 +1,3407 @@
+﻿[
+  {
+    "Word": "ab",
+    "Translation": "from",
+    "Sentence": "Ab morgen muss ich arbeiten"
+  },
+  {
+    "Word": "aber",
+    "Translation": "but",
+    "Sentence": "Ich bin oft im Büro, aber nur für wenige Stunden."
+  },
+  {
+    "Word": "abfahren",
+    "Translation": "to depart",
+    "Sentence": "Wir fahren um zwölf Uhr ab."
+  },
+  {
+    "Word": "die Abfahrt",
+    "Translation": "departure",
+    "Sentence": "Vor der Abfahrt rufe ich an."
+  },
+  {
+    "Word": "abgeben",
+    "Translation": "to hand over",
+    "Sentence": "Ich muss meine Schlüssel abgeben"
+  },
+  {
+    "Word": "abholen",
+    "Translation": "to pick up",
+    "Sentence": "Wann kann ich den Schrank bei dir abholen?"
+  },
+  {
+    "Word": "der Absender",
+    "Translation": "sender",
+    "Sentence": "Da ist ein Brief für dich ohne Absender."
+  },
+  {
+    "Word": "Achtung",
+    "Translation": "attention, caution",
+    "Sentence": "Achtung! Das dürfen Sie nicht tun."
+  },
+  {
+    "Word": "die Adresse, -en",
+    "Translation": "address",
+    "Sentence": "Können Sie mir seine Adresse sagen?"
+  },
+  {
+    "Word": "all",
+    "Translation": "all",
+    "Sentence": "Alles Gute! Das ist alles. Sind alle da? Alle Freunde kommen. Hast du alles?"
+  },
+  {
+    "Word": "allein",
+    "Translation": "alone",
+    "Sentence": "Er kommt allein."
+  },
+  {
+    "Word": "also",
+    "Translation": "so, thus, therefore",
+    "Sentence": "Also, es ist so:... Er hat Zeit, also muss er uns helfen."
+  },
+  {
+    "Word": "alt",
+    "Translation": "old",
+    "Sentence": "Wie alt sind Sie? Sie sehen aber nicht so alt aus. Mein Auto ist schon sehr alt. Wir wohnen in einem sehr alten Haus. Köln ist eine alte Stadt."
+  },
+  {
+    "Word": "das Alter",
+    "Translation": "age",
+    "Sentence": "Alter: 26 Jahre."
+  },
+  {
+    "Word": "an",
+    "Translation": "to, of, in, on, at, by, upon",
+    "Sentence": "Fahren Sie an der nächsten Straße nach rechts. Wir treffen uns am Bahnhof. Am nächsten Montag geht es leider nicht."
+  },
+  {
+    "Word": "anbieten",
+    "Translation": "to offer",
+    "Sentence": "Was darf ich dir anbieten?"
+  },
+  {
+    "Word": "das Angebot, -e",
+    "Translation": "offer",
+    "Sentence": "Heute sind Sportschuhe im Angebot"
+  },
+  {
+    "Word": "ander-",
+    "Translation": "other",
+    "Sentence": "Willst du diese Jacke? - Nein, ich möchte die andere."
+  },
+  {
+    "Word": "anfangen",
+    "Translation": "to begin",
+    "Sentence": "Hier fängt die Bahnhofstraße an. Der Unterrict fängt gleich an."
+  },
+  {
+    "Word": "der Anfang",
+    "Translation": "beginning",
+    "Sentence": "Sie wohnt am Anfang der Straße. Wir machen Anfang Juli Urlaub."
+  },
+  {
+    "Word": "anklicken",
+    "Translation": "to click (on)",
+    "Sentence": "Da musst du dieses Wort anklicken."
+  },
+  {
+    "Word": "ankommen",
+    "Translation": "to arrive",
+    "Sentence": "Wann komt dieser Zug in Hamburg an?"
+  },
+  {
+    "Word": "die Ankunft",
+    "Translation": "arrival",
+    "Sentence": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge."
+  },
+  {
+    "Word": "ankreuzen",
+    "Translation": "to tick",
+    "Sentence": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
+  },
+  {
+    "Word": "anmachen",
+    "Translation": "to turn on",
+    "Sentence": "Mach bitte das Licht an!"
+  },
+  {
+    "Word": "(sich) anmelden",
+    "Translation": "to register (oneself)",
+    "Sentence": "Wo kann ich mich anmelden?"
+  },
+  {
+    "Word": "die Anmeldung",
+    "Translation": "registration",
+    "Sentence": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
+  },
+  {
+    "Word": "die Anrede",
+    "Translation": "salutation",
+    "Sentence": "Schreiben Sie auch eine Anrede und einen Grüß."
+  },
+  {
+    "Word": "anrufen",
+    "Translation": "to call, to phone",
+    "Sentence": "Kann man Sie anrufen? Peter ruft kurz seine Freundin an."
+  },
+  {
+    "Word": "der Anruf, -e",
+    "Translation": "phone call",
+    "Sentence": "Sie bekommt viele Anrufe auf ihrem Handy."
+  },
+  {
+    "Word": "der Anrufbeantworter",
+    "Translation": "answering machine",
+    "Sentence": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
+  },
+  {
+    "Word": "die Ansage",
+    "Translation": "announcement",
+    "Sentence": "Hören Sie die Ansagen."
+  },
+  {
+    "Word": "der Anschluss",
+    "Translation": "connection",
+    "Sentence": "In Mannheim haben Sie Anschluss nach Saarbrücken. Ist das die Anmeldung für einen Telefonanschluss?"
+  },
+  {
+    "Word": "an sein",
+    "Translation": "to be on",
+    "Sentence": "Heute Nacht war das Licht an."
+  },
+  {
+    "Word": "antworten",
+    "Translation": "to answer",
+    "Sentence": "Er antwortet nicht."
+  },
+  {
+    "Word": "die Antwort, -en",
+    "Translation": "answer",
+    "Sentence": "Er gibt leider keine Antwort."
+  },
+  {
+    "Word": "die Anzeige, -n",
+    "Translation": "ad, display",
+    "Sentence": "Ich habe Ihre Anzeige in der Zeitung gelesen."
+  },
+  {
+    "Word": "(sich) anziehen",
+    "Translation": "to get dressed, to attract",
+    "Sentence": "Ich muss mich noch anziehen."
+  },
+  {
+    "Word": "das Apartment",
+    "Translation": "apartment",
+    "Sentence": "Wir haben ein Apartment gemietet."
+  },
+  {
+    "Word": "der Apfel, -Ä",
+    "Translation": "apple",
+    "Sentence": "Ein Pfund Äpfel bitte."
+  },
+  {
+    "Word": "der Appetit",
+    "Translation": "appetite",
+    "Sentence": "Guten appetit!"
+  },
+  {
+    "Word": "arbeiten",
+    "Translation": "to work",
+    "Sentence": "Wo arbeiten Sie?"
+  },
+  {
+    "Word": "die Arbeit, -en",
+    "Translation": "work",
+    "Sentence": "Mein Bruder sucht Arbeit."
+  },
+  {
+    "Word": "arbeitslos",
+    "Translation": "unemployed",
+    "Sentence": "Es gibt bein uns viele Leute, die schon lange arbeitslos sind."
+  },
+  {
+    "Word": "der Arbeitsplatz, -ä, e",
+    "Translation": "workplace",
+    "Sentence": "An meinem Arbeitsplatz fehlt ein Drucker."
+  },
+  {
+    "Word": "der Arm, -e",
+    "Translation": "arm",
+    "Sentence": "Mein Arm tut weh."
+  },
+  {
+    "Word": "der Arzt, -Ä, e",
+    "Translation": "doctor",
+    "Sentence": "Morgen habe ich einen Termin bei meiner Ärztin."
+  },
+  {
+    "Word": "auch",
+    "Translation": "also, as well, additionally",
+    "Sentence": "Ich bin auch Spanier."
+  },
+  {
+    "Word": "auf",
+    "Translation": "to, on, for, at, onto, upon",
+    "Sentence": "Die Kinder spielen auf der Straße. Auf wiedersehen. Wie heißt das auf Deutsch?"
+  },
+  {
+    "Word": "die Aufgabe, -n",
+    "Translation": "task",
+    "Sentence": "Das ist eine schwere Aufgabe."
+  },
+  {
+    "Word": "aufhören",
+    "Translation": "to stop, to quit, to cease",
+    "Sentence": "Der Kurs hört in einer Woche auf. Hier hört die Bahnhofstraße auf."
+  },
+  {
+    "Word": "auf sein",
+    "Translation": "to be up, to be open",
+    "Sentence": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
+  },
+  {
+    "Word": "aufstehen",
+    "Translation": "to stand up, to get up",
+    "Sentence": "Ich muss immer um bier Uhr aufstehen."
+  },
+  {
+    "Word": "der Aufzug, -ü, e",
+    "Translation": "elevator",
+    "Sentence": "In diesem Haus gibt es keinen Aufzug."
+  },
+  {
+    "Word": "das Auge, -n",
+    "Translation": "eye",
+    "Sentence": "Er hat blaue Augen."
+  },
+  {
+    "Word": "aus",
+    "Translation": "from, of, made of, out of, out",
+    "Sentence": "Er kommt aus Brasilien."
+  },
+  {
+    "Word": "der Ausflug",
+    "Translation": "excursion, trip, outing",
+    "Sentence": "Morgen machen wir einen Ausflug nach Heidelberg."
+  },
+  {
+    "Word": "ausfüllen",
+    "Translation": "to fill out",
+    "Sentence": "Füllen Sie bitte dieses Formular aus."
+  },
+  {
+    "Word": "der Ausgang",
+    "Translation": "exit, end, output",
+    "Sentence": "Wo ist der Ausgang?"
+  },
+  {
+    "Word": "die Auskunft, -ü, e",
+    "Translation": "information, information office",
+    "Sentence": "Können Sie mir eine Auskunft geben?"
+  },
+  {
+    "Word": "das Ausland",
+    "Translation": "foreign country",
+    "Sentence": "Fahren Sie ins Ausland?"
+  },
+  {
+    "Word": "der Ausländer",
+    "Translation": "foreigner",
+    "Sentence": "sind Sie Ausländerin?"
+  },
+  {
+    "Word": "ausländisch",
+    "Translation": "foreign",
+    "Sentence": "Leider habe ich nur ausländisches Geld."
+  },
+  {
+    "Word": "ausmachen",
+    "Translation": "to put out, to constitute, to locate",
+    "Sentence": "Mach bitte das Licht aus!"
+  },
+  {
+    "Word": "die Aussage, -n",
+    "Translation": "statement",
+    "Sentence": "Ist die Aussage richtig oder falsch?"
+  },
+  {
+    "Word": "aussehen",
+    "Translation": "to appear",
+    "Sentence": "Das sieht schön aus."
+  },
+  {
+    "Word": "aus sein",
+    "Translation": "to be off",
+    "Sentence": "Das Licht ist aus. Die Schule ist aus."
+  },
+  {
+    "Word": "aussteigen",
+    "Translation": "to disembark, to get off",
+    "Sentence": "Wo muss ich aussteigen?"
+  },
+  {
+    "Word": "der Ausweis",
+    "Translation": "ID card, identification",
+    "Sentence": "Hier ist mein Ausweis."
+  },
+  {
+    "Word": "(sich) ausziehen",
+    "Translation": "to take off, to undress",
+    "Sentence": "Zieh die Schuhe aus, bitte!"
+  },
+  {
+    "Word": "das Auto, -s",
+    "Translation": "car",
+    "Sentence": "Er kommt mit dem Auto."
+  },
+  {
+    "Word": "die Autobahn, -en",
+    "Translation": "highway",
+    "Sentence": "Wo geht's hier bitte zur Autobahn?"
+  },
+  {
+    "Word": "der Automat",
+    "Translation": "dispenser, vending machine",
+    "Sentence": "Die Fahrkarten gibt es nur am Automaten."
+  },
+  {
+    "Word": "automatisch",
+    "Translation": "automatic",
+    "Sentence": "Du musst nichts machen. Das geht automatisch."
+  },
+  {
+    "Word": "das Baby, -s",
+    "Translation": "baby",
+    "Sentence": "Mein Kind ist noch ein Baby."
+  },
+  {
+    "Word": "die Bäckerei",
+    "Translation": "bakery",
+    "Sentence": "Ich geh mal schnell zur Bäckerei."
+  },
+  {
+    "Word": "das Bad",
+    "Translation": "bath, bathtub",
+    "Sentence": "Wir haben kein großes Bad."
+  },
+  {
+    "Word": "baden",
+    "Translation": "to bathe",
+    "Sentence": "Ich bade nicht so gern, ich dusche lieber."
+  },
+  {
+    "Word": "die Bahn",
+    "Translation": "railway, train",
+    "Sentence": "Wir fahren lieber mit der Bahn. Ich nehme die nächste Bahn."
+  },
+  {
+    "Word": "der Bahnhof",
+    "Translation": "train station",
+    "Sentence": "Komme ich hier zum Bahnhof?"
+  },
+  {
+    "Word": "der Bahnsteig",
+    "Translation": "railroad platform",
+    "Sentence": "Auf welchem Bahnsteig fährt der Zug?"
+  },
+  {
+    "Word": "bald",
+    "Translation": "soon",
+    "Sentence": "Ich komme bald."
+  },
+  {
+    "Word": "der Balkon",
+    "Translation": "balcony",
+    "Sentence": "Die Wohnung hat auch einen kleinen Balkon."
+  },
+  {
+    "Word": "die Banane, -n",
+    "Translation": "banana",
+    "Sentence": "Drei Bananen, bitte!"
+  },
+  {
+    "Word": "die Bank",
+    "Translation": "bank, bench",
+    "Sentence": "Die Bank schließt schon um vier Uhr. Er sitzt im Park auf einer Bank und liest."
+  },
+  {
+    "Word": "bar",
+    "Translation": "cash",
+    "Sentence": "Muss ich bar zahlen oder geht's auch mit Karte?"
+  },
+  {
+    "Word": "der Bauch",
+    "Translation": "stomach",
+    "Sentence": "Seit gester tut mir der Bauch weh."
+  },
+  {
+    "Word": "der Baum, -ä, e",
+    "Translation": "tree",
+    "Sentence": "Vorsicht, fahr nicht an den Baum!"
+  },
+  {
+    "Word": "der Beamte, -n",
+    "Translation": "official, officer, clerk",
+    "Sentence": "Fragen Sie die Beamtin an Schalter acht!"
+  },
+  {
+    "Word": "bedeuten",
+    "Translation": "to mean",
+    "Sentence": "Was bedeutet das Wort?"
+  },
+  {
+    "Word": "beginnen",
+    "Translation": "to begin",
+    "Sentence": "Das Spiel beginnt um 15.30 Uhr."
+  },
+  {
+    "Word": "bei",
+    "Translation": "with, at, for, by, during, on, in case of, among",
+    "Sentence": "Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns regnet es heute. Er arbeitet bei der Polizei."
+  },
+  {
+    "Word": "beide",
+    "Translation": "both",
+    "Sentence": "Beide Eltern arbeiten. Wir kommen beide."
+  },
+  {
+    "Word": "das Bein, -e",
+    "Translation": "leg",
+    "Sentence": "Mein rechtes Bein tut weh."
+  },
+  {
+    "Word": "das Beispiel, -e",
+    "Translation": "example",
+    "Sentence": "Kannst du mir ein Beispiel sagen?"
+  },
+  {
+    "Word": "zum Beispiel, z. B.",
+    "Translation": "for example",
+    "Sentence": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
+  },
+  {
+    "Word": "bekannt",
+    "Translation": "well-known",
+    "Sentence": "Picasso ist sehr bekannt."
+  },
+  {
+    "Word": "der/die Bekannte, -n",
+    "Translation": "acquaintance",
+    "Sentence": "Ein Bekannter von mir heißt Klaus."
+  },
+  {
+    "Word": "bekommen",
+    "Translation": "to receive",
+    "Sentence": "Haben Sie meinen Brief bekommen? Was bekommen Sie? Dieses Medikament bekommen Sie in der Apotheke."
+  },
+  {
+    "Word": "benutzen",
+    "Translation": "to use",
+    "Sentence": "Die Aufzüge bitte nicht benutzen!"
+  },
+  {
+    "Word": "der Beruf, -e",
+    "Translation": "occupation",
+    "Sentence": "Was sind Sie von Beruf? Was ist Ihr Beruf?"
+  },
+  {
+    "Word": "besetzt",
+    "Translation": "occupied",
+    "Sentence": "Die Nummer ist immer besetzt. Der Platz ist besetzt."
+  },
+  {
+    "Word": "besichtigen",
+    "Translation": "to view, to visit",
+    "Sentence": "Ich möchte gern den Dom besichtigen."
+  },
+  {
+    "Word": "besser",
+    "Translation": "better",
+    "Sentence": "Es geht mir schon besser."
+  },
+  {
+    "Word": "best-",
+    "Translation": "best",
+    "Sentence": "Am besten treffen wir uns morgen."
+  },
+  {
+    "Word": "bestellen",
+    "Translation": "order",
+    "Sentence": "Wir möchten bestellen, bitte. Dieses Buch haben wir nicht - sollen wir es für Sie bestellen?"
+  },
+  {
+    "Word": "besuchen",
+    "Translation": "to visit",
+    "Sentence": "Darf ich dich besuchen?"
+  },
+  {
+    "Word": "das Bett, -en",
+    "Translation": "bed",
+    "Sentence": "Wir brauchen noch ein Kinderbett."
+  },
+  {
+    "Word": "bezahlen",
+    "Translation": "to pay",
+    "Sentence": "Wo muss ich bezahlen?"
+  },
+  {
+    "Word": "das Bier",
+    "Translation": "bier",
+    "Sentence": "Noch ein Bier bitte."
+  },
+  {
+    "Word": "das Bild, -er",
+    "Translation": "picture",
+    "Sentence": "Hast du ein Bild von deinem Sohn?"
+  },
+  {
+    "Word": "billig",
+    "Translation": "cheap",
+    "Sentence": "Die Jacke kostet nur 10 Euro! Die ist aber billig!"
+  },
+  {
+    "Word": "die Birne",
+    "Translation": "pear",
+    "Sentence": "Ein Kilo, Birnen, bitte!"
+  },
+  {
+    "Word": "bis",
+    "Translation": "to, upto, until",
+    "Sentence": "Ich fahre nur bis Stuttgart. Ich warte bis morgen."
+  },
+  {
+    "Word": "bisschen",
+    "Translation": "little bit",
+    "Sentence": "Ich spreche Englisch, Französisch udn ein bisschen Deutsch."
+  },
+  {
+    "Word": "bitte",
+    "Translation": "please",
+    "Sentence": "Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!"
+  },
+  {
+    "Word": "die Bitte, -n",
+    "Translation": "request",
+    "Sentence": "Ich habe noch eine Bitte."
+  },
+  {
+    "Word": "bitten",
+    "Translation": "to request",
+    "Sentence": "Darf ich Sie um etwas bitten?"
+  },
+  {
+    "Word": "bitter",
+    "Translation": "bitter",
+    "Sentence": "Der Kaffee schmeckt bitter."
+  },
+  {
+    "Word": "bleiben",
+    "Translation": "to stay",
+    "Sentence": "Ich bleibe heute zu Hause. Wir bleiben nur bis morgen."
+  },
+  {
+    "Word": "der Bleistift, -e",
+    "Translation": "pencil",
+    "Sentence": "Hast du einen Bleistift?"
+  },
+  {
+    "Word": "der Blick",
+    "Translation": "view, glance, glimpse",
+    "Sentence": "Von diesem Hotel hat man einen guten Blick auf den Rhein."
+  },
+  {
+    "Word": "die Blume, -n",
+    "Translation": "flower",
+    "Sentence": "Gefallen dir die Blumen?"
+  },
+  {
+    "Word": "der Bogen",
+    "Translation": "bow, sheet, arc, curve",
+    "Sentence": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen."
+  },
+  {
+    "Word": "böse",
+    "Translation": "evil",
+    "Sentence": "Sie ist böse auf mich."
+  },
+  {
+    "Word": "brauchen",
+    "Translation": "to need",
+    "Sentence": "Brauchst du die Zeitung noch?"
+  },
+  {
+    "Word": "breit",
+    "Translation": "wide",
+    "Sentence": "Wie breit ist der Schrank?"
+  },
+  {
+    "Word": "der Brief, -e",
+    "Translation": "letter",
+    "Sentence": "Haben Sie einen Brief für mich?"
+  },
+  {
+    "Word": "die Briefmarke, -n",
+    "Translation": "stamp",
+    "Sentence": "Kaufst du bitte Briefmarken bei der Post."
+  },
+  {
+    "Word": "bringen",
+    "Translation": "to bring",
+    "Sentence": "Bringen Sie mir bitte noch einen Kaffee! Wir müssen ihn zum Arzt bringen."
+  },
+  {
+    "Word": "das Brot, -e",
+    "Translation": "bread",
+    "Sentence": "Haben Sie auch Weißbrot? Nimm noch ein paar Brote für die Fahrt mit."
+  },
+  {
+    "Word": "das Brötchen, -",
+    "Translation": "bun, breadroll",
+    "Sentence": "Möchtest du Brötchen zum Frühstück?"
+  },
+  {
+    "Word": "der Bruder, -ü",
+    "Translation": "brother",
+    "Sentence": "Sein Bruder arbeitet auch hier."
+  },
+  {
+    "Word": "das Buch, -ü, er",
+    "Translation": "book",
+    "Sentence": "Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20,000 Wörter."
+  },
+  {
+    "Word": "der Buchstabe, -n",
+    "Translation": "letter, character, alphabet",
+    "Sentence": "Diesen Buchstaben gibt es in meiner Sprache nicht."
+  },
+  {
+    "Word": "buchstabieren",
+    "Translation": "to spell",
+    "Sentence": "Bitte buchstabieren Sie Ihren Namen."
+  },
+  {
+    "Word": "der Bus, -se",
+    "Translation": "bus",
+    "Sentence": "Wann kommt der nächste Bus?"
+  },
+  {
+    "Word": "die Butter",
+    "Translation": "butter",
+    "Sentence": "Für mich bitte ein Brötchen mit Butter und Käse."
+  },
+  {
+    "Word": "das Café, -s",
+    "Translation": "cafe",
+    "Sentence": "Sollen wir uns im Café treffen?"
+  },
+  {
+    "Word": "die CD, -s",
+    "Translation": "CD",
+    "Sentence": "Bring bitte deine Lieblings-CD mit."
+  },
+  {
+    "Word": "der Chef",
+    "Translation": "boss, chief, head",
+    "Sentence": "Wir haben eine neue Chefin"
+  },
+  {
+    "Word": "circa/ca.",
+    "Translation": "around, approximately",
+    "Sentence": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer."
+  },
+  {
+    "Word": "der Computer, -",
+    "Translation": "computer",
+    "Sentence": "Wann bekommst du deinen neuen Computer?"
+  },
+  {
+    "Word": "da",
+    "Translation": "there",
+    "Sentence": "Da hinten ist er ja. Wir sprechen gerade über Paul. Da kommt er ja gerade. Ich nehme das da. Ist Herr Klein schon da?"
+  },
+  {
+    "Word": "die Dame, -n",
+    "Translation": "lady",
+    "Sentence": "Damen (an der Toilette) Sehr geehrte Damen und Herren!"
+  },
+  {
+    "Word": "daneben",
+    "Translation": "next to it",
+    "Sentence": "Du kennst doch die Post. Daneben ist die Bank."
+  },
+  {
+    "Word": "danken",
+    "Translation": "to thank",
+    "Sentence": "Ich danke Ihnen für die Einladung."
+  },
+  {
+    "Word": "der Dank",
+    "Translation": "appreciation, gratitude",
+    "Sentence": "Vielen Dank! Herzlichen Dank!"
+  },
+  {
+    "Word": "danke",
+    "Translation": "thanks",
+    "Sentence": "Soll ich Ihnen helfen? - Nein, danke!"
+  },
+  {
+    "Word": "dann",
+    "Translation": "then",
+    "Sentence": "Ich muss noch schnell zur Post, dann komme ich."
+  },
+  {
+    "Word": "das Datum",
+    "Translation": "date",
+    "Sentence": "Bitte schreiben Sie noch das Datum auf das Formular."
+  },
+  {
+    "Word": "dauern",
+    "Translation": "to last",
+    "Sentence": "Wie lange dauert der Film?"
+  },
+  {
+    "Word": "dein-",
+    "Translation": "your",
+    "Sentence": "Ist das dein Auto? Ist das deins?"
+  },
+  {
+    "Word": "denn",
+    "Translation": "because, for",
+    "Sentence": "Ich kann nicht kommen, denn ich bin krank."
+  },
+  {
+    "Word": "der, die, das",
+    "Translation": "the, which",
+    "Sentence": "Ich nehme das da. Hier ist der Brief, den du suchst. Die Fahrkarte bekommst du am Bahnhof."
+  },
+  {
+    "Word": "dich",
+    "Translation": "you",
+    "Sentence": "Die Blumen sind für dich."
+  },
+  {
+    "Word": "dies-",
+    "Translation": "this",
+    "Sentence": "Ich nehme lieber diesen Kuchen."
+  },
+  {
+    "Word": "dir",
+    "Translation": "to you",
+    "Sentence": "Gefallen dir die Blumen?"
+  },
+  {
+    "Word": "die Disco",
+    "Translation": "disco",
+    "Sentence": "Heute abend gehen wir in die Disco tanzen."
+  },
+  {
+    "Word": "der Doktor",
+    "Translation": "doctor",
+    "Sentence": "Meine Tochter ist krank. Wir gehen zum Doktor."
+  },
+  {
+    "Word": "das Doppelzimmer",
+    "Translation": "double room",
+    "Sentence": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
+  },
+  {
+    "Word": "das Dorf, -ö, er",
+    "Translation": "village",
+    "Sentence": "Meine Familie lebt in einem Dorf."
+  },
+  {
+    "Word": "dort, -her, -hin",
+    "Translation": "there",
+    "Sentence": "Deine Tasche kannst du dorthin stellen. Dort ist unser Haus."
+  },
+  {
+    "Word": "draußen",
+    "Translation": "outside",
+    "Sentence": "Wollen wir draußen sitzen?"
+  },
+  {
+    "Word": "drucken",
+    "Translation": "to print",
+    "Sentence": "Bitte drucke das Formular für mich."
+  },
+  {
+    "Word": "der Drucker, -",
+    "Translation": "printer",
+    "Sentence": "Mein Drucker ist kaputt."
+  },
+  {
+    "Word": "drücken",
+    "Translation": "to press",
+    "Sentence": "Drück hier, dann geht der Computer an."
+  },
+  {
+    "Word": "durch",
+    "Translation": "through",
+    "Sentence": "Am besten gehen Sie durch die Breite Straße."
+  },
+  {
+    "Word": "die Durchsage, -n",
+    "Translation": "announcement",
+    "Sentence": "Ich habe die Durchsage nicht verstanden."
+  },
+  {
+    "Word": "dürfen",
+    "Translation": "to be allowed",
+    "Sentence": "Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15 Euro kosten."
+  },
+  {
+    "Word": "der Durst",
+    "Translation": "thirst",
+    "Sentence": "Hast du etwas zu trinken? Ich habe großen Durst."
+  },
+  {
+    "Word": "(sich) duschen",
+    "Translation": "to shower",
+    "Sentence": "Ich bade nicht so gern, ich dusche lieber."
+  },
+  {
+    "Word": "die Dusche",
+    "Translation": "shower",
+    "Sentence": "Unsere Wohnung hat nur eine Dusche."
+  },
+  {
+    "Word": "die Ecke",
+    "Translation": "corner",
+    "Sentence": "An der nächsten Ecke links."
+  },
+  {
+    "Word": "die Ehefrau, -en/ der Ehemann, ä, er",
+    "Translation": "wife/husband",
+    "Sentence": "Das ist mein (Ehe-) Mann/ meine (Ehe-) Frau."
+  },
+  {
+    "Word": "das Ei, -er",
+    "Translation": "egg",
+    "Sentence": "Möchtest du ein Ei zum Frühstuck?"
+  },
+  {
+    "Word": "eilig",
+    "Translation": "hurried, urgent",
+    "Sentence": "Hast du es eilig?"
+  },
+  {
+    "Word": "ein-",
+    "Translation": "one, someone",
+    "Sentence": "Ich nehme ein Bier. Willst du auch eins? Ist hier einer, der das kann?"
+  },
+  {
+    "Word": "einfach",
+    "Translation": "easy, simple",
+    "Sentence": "Die Prüfung ist ganz einfach. Hin und zurück? - Nein, bitte nur einfach. Ich brauche nur ein einfaches Zimmer."
+  },
+  {
+    "Word": "der Eingang",
+    "Translation": "entrance",
+    "Sentence": "Der Eingang ist um die Ecke."
+  },
+  {
+    "Word": "einkaufen",
+    "Translation": "to shop, to buy groceries",
+    "Sentence": "Ich muss noch für morgen einkaufen."
+  },
+  {
+    "Word": "einladen",
+    "Translation": "to invite",
+    "Sentence": "Darf ich Sie zu einem Kaffee einladen?"
+  },
+  {
+    "Word": "die Einladung",
+    "Translation": "invitation",
+    "Sentence": "Danke für die Einladung!"
+  },
+  {
+    "Word": "einmal",
+    "Translation": "once",
+    "Sentence": "Diese Prüfung mache ich nicht noch einmal."
+  },
+  {
+    "Word": "einsteigen",
+    "Translation": "to onboard, to get on",
+    "Sentence": "Schnell, steig ein, der Zug fährt gleich."
+  },
+  {
+    "Word": "der Eintritt",
+    "Translation": "entry, admission",
+    "Sentence": "Der Preis für den Eintritt ist 5 Euro."
+  },
+  {
+    "Word": "das Einzelzimmer",
+    "Translation": "single room",
+    "Sentence": "Haben Sie noch ein Einzelzimmer?"
+  },
+  {
+    "Word": "die Eltern (pl.)",
+    "Translation": "parents",
+    "Sentence": "Meine Eltern leben in Spanien."
+  },
+  {
+    "Word": "die E-Mail, -s",
+    "Translation": "email",
+    "Sentence": "Ich habe Ihre E-Mail nicht bekommen"
+  },
+  {
+    "Word": "der Empfänger, -",
+    "Translation": "receiver",
+    "Sentence": "Auf dem Brief steht dein Name, also bist du der Empfänger."
+  },
+  {
+    "Word": "empfehlen",
+    "Translation": "to recomment",
+    "Sentence": "Welchen Wein können Sie mir empfehlen?"
+  },
+  {
+    "Word": "enden",
+    "Translation": "to end",
+    "Sentence": "Die Straße endet hier."
+  },
+  {
+    "Word": "das Ende",
+    "Translation": "end",
+    "Sentence": "Sie wohnt am Ende der Straße."
+  },
+  {
+    "Word": "entschuldigen",
+    "Translation": "to excuse",
+    "Sentence": "Entschuldigen Sie bitte!"
+  },
+  {
+    "Word": "die Entschuldigung",
+    "Translation": "apology",
+    "Sentence": "Entschuldigung! - Bitte."
+  },
+  {
+    "Word": "er",
+    "Translation": "he",
+    "Sentence": "Er heißt Ali."
+  },
+  {
+    "Word": "das Ergebnis, -se",
+    "Translation": "result",
+    "Sentence": "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
+  },
+  {
+    "Word": "erklären",
+    "Translation": "to clarify",
+    "Sentence": "Kannst du mir das erklären?"
+  },
+  {
+    "Word": "erlauben",
+    "Translation": "to allow",
+    "Sentence": "Rauchen ist hier nicht erlaubt."
+  },
+  {
+    "Word": "der Erwachsene, -n",
+    "Translation": "adult",
+    "Sentence": "Dieser Film ist nur für Erwachsene."
+  },
+  {
+    "Word": "erzählen",
+    "Translation": "to tell, to narrate",
+    "Sentence": "Wir müssen euch etwas erzählen!"
+  },
+  {
+    "Word": "es",
+    "Translation": "it",
+    "Sentence": "Es regnet."
+  },
+  {
+    "Word": "essen",
+    "Translation": "to eat",
+    "Sentence": "Was gibt es zu essen?"
+  },
+  {
+    "Word": "das Essen",
+    "Translation": "food",
+    "Sentence": "Das Essen ist heute sehr gut."
+  },
+  {
+    "Word": "euer",
+    "Translation": "your",
+    "Sentence": "Euer Kurs beginnt heute."
+  },
+  {
+    "Word": "fahren",
+    "Translation": "to drive, to ride",
+    "Sentence": "Ich fahre mit dem Auto zur Arbeit."
+  },
+  {
+    "Word": "der Fahrer",
+    "Translation": "driver",
+    "Sentence": "Bitte nicht mit dem Fahrer sprechen!"
+  },
+  {
+    "Word": "die Fahrkarte, -n",
+    "Translation": "travel ticket",
+    "Sentence": "Hast du schon eine Fahrkarte?"
+  },
+  {
+    "Word": "falsch",
+    "Translation": "false",
+    "Sentence": "Das ist falsch."
+  },
+  {
+    "Word": "die Familie, -n",
+    "Translation": "family",
+    "Sentence": "Meine Familie lebt in Spanien."
+  },
+  {
+    "Word": "der Familienname",
+    "Translation": "surname",
+    "Sentence": "Meine Familiennamen sind Garcia Gonzalez."
+  },
+  {
+    "Word": "der Familienstand",
+    "Translation": "marital status",
+    "Sentence": "Bei \"Familienstand\" musst du \"ledig\" ankreuzen."
+  },
+  {
+    "Word": "die Farbe, -n",
+    "Translation": "color",
+    "Sentence": "Die Farbe gefällt mir gut."
+  },
+  {
+    "Word": "das Fax, -e",
+    "Translation": "fax",
+    "Sentence": "Schicken Sie uns einfach ein Fax!"
+  },
+  {
+    "Word": "Feier-",
+    "Translation": "celebration, closing, holiday",
+    "Sentence": "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+  },
+  {
+    "Word": "feiern",
+    "Translation": "to celebrate",
+    "Sentence": "Wir feiern heute meinen Geburtstag."
+  },
+  {
+    "Word": "fehlen",
+    "Translation": "to be missing, to lack",
+    "Sentence": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?"
+  },
+  {
+    "Word": "der Fehler, -",
+    "Translation": "mistake",
+    "Sentence": "Diesen Fehler mache ich immer."
+  },
+  {
+    "Word": "fernsehen",
+    "Translation": "to watch TV",
+    "Sentence": "Wollen wir heute Abend mal fernsehen?"
+  },
+  {
+    "Word": "fertig",
+    "Translation": "done, ready",
+    "Sentence": "Bist du fertig? Ist mein Auto schon fertig?"
+  },
+  {
+    "Word": "das Feuer",
+    "Translation": "fire",
+    "Sentence": "Haben Sie Feuer?"
+  },
+  {
+    "Word": "das Fieber",
+    "Translation": "fever",
+    "Sentence": "Mein Mann hat noch immer Fieber."
+  },
+  {
+    "Word": "der Film, -e",
+    "Translation": "film",
+    "Sentence": "Ich möchte gern diesen Film sehen."
+  },
+  {
+    "Word": "finden",
+    "Translation": "to find",
+    "Sentence": "Wir müssen den Schlüssel finden."
+  },
+  {
+    "Word": "die Firma",
+    "Translation": "firm, company, organization",
+    "Sentence": "Er arbeitet jetzt bei einer anderen Firma."
+  },
+  {
+    "Word": "der Fisch, -e",
+    "Translation": "fish",
+    "Sentence": "Ich esse gern Fisch. Fleisch mag ich nicht."
+  },
+  {
+    "Word": "die Flasche, -n",
+    "Translation": "bottle",
+    "Sentence": "Eine Flasche Bier, bitte."
+  },
+  {
+    "Word": "das Fleisch",
+    "Translation": "meat",
+    "Sentence": "Fleisch mag ich nicht."
+  },
+  {
+    "Word": "fliegen",
+    "Translation": "to fly",
+    "Sentence": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
+  },
+  {
+    "Word": "abfliegen",
+    "Translation": "to fly off, to depart",
+    "Sentence": "Wann fliegst du ab?"
+  },
+  {
+    "Word": "der Abflug",
+    "Translation": "departure",
+    "Sentence": "Der Abflug ist um 11.20 Uhr."
+  },
+  {
+    "Word": "der Flughafen",
+    "Translation": "airport",
+    "Sentence": "Kannst du mich zum Flughafen bringen?"
+  },
+  {
+    "Word": "das Flugzeug",
+    "Translation": "plane, aircraft",
+    "Sentence": "Das Flugzeug aus Berlin kommt heute später an."
+  },
+  {
+    "Word": "das Formular, -e",
+    "Translation": "form",
+    "Sentence": "Sie müssen dieses Formular ausfüllen."
+  },
+  {
+    "Word": "das Foto, -s",
+    "Translation": "photo",
+    "Sentence": "Darf ich ein Foto machen?"
+  },
+  {
+    "Word": "fragen",
+    "Translation": "to ask",
+    "Sentence": "Er möchte Sie etwas fragen. Wann kommen Sie?"
+  },
+  {
+    "Word": "die Frage, -n",
+    "Translation": "question",
+    "Sentence": "Ich habe eine Frage."
+  },
+  {
+    "Word": "die Frau, -en",
+    "Translation": "woman",
+    "Sentence": "Das ist Frau Becker. Guten Tag, Frau Schmitt! Hier arbeiten mehr Frauen als Männer."
+  },
+  {
+    "Word": "frei",
+    "Translation": "free, available",
+    "Sentence": "Ist der Platz noch frei?"
+  },
+  {
+    "Word": "die Freizeit",
+    "Translation": "leisure",
+    "Sentence": "In meiner Freizeit spiele ich oft Fußball."
+  },
+  {
+    "Word": "fremd",
+    "Translation": "foreign, alien",
+    "Sentence": "Das weiß ich nicht; ich bin fremd hier."
+  },
+  {
+    "Word": "(sich) freuen",
+    "Translation": "to be pleased, to enjoy",
+    "Sentence": "Ich freue mich auf den Urlaub."
+  },
+  {
+    "Word": "der Freund, -e",
+    "Translation": "friend",
+    "Sentence": "Das ist ein Freund von mir. Das ist meine Freundin."
+  },
+  {
+    "Word": "früher",
+    "Translation": "earlier",
+    "Sentence": "Früher waren wir oft zusammen im Kino."
+  },
+  {
+    "Word": "frühstücken",
+    "Translation": "to have breakfast",
+    "Sentence": "Am Sonntag frühstücke ich gern im Bett."
+  },
+  {
+    "Word": "das Frühstück",
+    "Translation": "breakfast",
+    "Sentence": "Möchtest du ein Ei zum Frühstuck?"
+  },
+  {
+    "Word": "die Führung",
+    "Translation": "tour, leadership, guided tour",
+    "Sentence": "die Führung durch das Haus beginnt in 3 Minuten."
+  },
+  {
+    "Word": "für",
+    "Translation": "for",
+    "Sentence": "Das ist für Sie. Das ist der Schlüssel für die Haustür. Das ist das Brot für morgen."
+  },
+  {
+    "Word": "der Fuß, -ü, e",
+    "Translation": "foot",
+    "Sentence": "Der linke Fuß tut mir weh."
+  },
+  {
+    "Word": "der Fußball",
+    "Translation": "football",
+    "Sentence": "Spielt ihr gerne Fußball?"
+  },
+  {
+    "Word": "der Garten",
+    "Translation": "garden",
+    "Sentence": "Wir haben leider keinen Garten."
+  },
+  {
+    "Word": "der Gast, -ä, e",
+    "Translation": "guest",
+    "Sentence": "Am Wohenende haben wir mehrere Gäste."
+  },
+  {
+    "Word": "geben",
+    "Translation": "to give",
+    "Sentence": "Kannst du mir bitte deinen Kugelschreiber geben? Es gibt keine Karten mehr."
+  },
+  {
+    "Word": "geboren",
+    "Translation": "to be born",
+    "Sentence": "Ich bin in Zagreb geboren."
+  },
+  {
+    "Word": "das Geburtsjahr",
+    "Translation": "birth year",
+    "Sentence": "Das Geburtsjahr Ihres Sohnes, bitte?"
+  },
+  {
+    "Word": "der Geburtsort",
+    "Translation": "birth place",
+    "Sentence": "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+  },
+  {
+    "Word": "der Geburtstag",
+    "Translation": "birth day",
+    "Sentence": "Herzlichen Glückwunsch zum Geburtstag!"
+  },
+  {
+    "Word": "gefallen",
+    "Translation": "to be pleasant",
+    "Sentence": "Das gefällt mir."
+  },
+  {
+    "Word": "gegen",
+    "Translation": "against",
+    "Sentence": "Fahr nicht gegen den Baum! Ich bin gegen diese Lösung. Wer spielt gegen wen?"
+  },
+  {
+    "Word": "gehen",
+    "Translation": "to go",
+    "Sentence": "Ich weiß nicht, wie das geht. Wie geht's? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen."
+  },
+  {
+    "Word": "gehören",
+    "Translation": "to belong to",
+    "Sentence": "Wem gehört das?"
+  },
+  {
+    "Word": "das Geld",
+    "Translation": "money",
+    "Sentence": "Hast du noch Geld?"
+  },
+  {
+    "Word": "das Gemüse",
+    "Translation": "vegetable",
+    "Sentence": "Gemüse brauchen wir auch noch."
+  },
+  {
+    "Word": "das Gepäck",
+    "Translation": "luggage",
+    "Sentence": "Wollen Sie Ihr Gepäck mitnehmen?"
+  },
+  {
+    "Word": "gerade",
+    "Translation": "just, right now",
+    "Sentence": "Da kommt er ja gerade."
+  },
+  {
+    "Word": "geradeaus",
+    "Translation": "straight ahead",
+    "Sentence": "Gehen Sie immer geradeaus!"
+  },
+  {
+    "Word": "gern(e)",
+    "Translation": "gladly, with pleasure",
+    "Sentence": "Ich gehe gerne einkaufen."
+  },
+  {
+    "Word": "das Geschäft, -e",
+    "Translation": "business, shop",
+    "Sentence": "Die Geschäfte schließen um 18.30 Uhr"
+  },
+  {
+    "Word": "das Geschenk, -e",
+    "Translation": "gift",
+    "Sentence": "Danke für das schöne Geschenk"
+  },
+  {
+    "Word": "die Geschwister (pl.)",
+    "Translation": "siblings",
+    "Sentence": "Ich habe leider keine Geschwister."
+  },
+  {
+    "Word": "das Gespräch, -e",
+    "Translation": "interview, conversation, discussion",
+    "Sentence": "Das Gespräch mit Frau Kunz ist um 14 Uhr"
+  },
+  {
+    "Word": "gestern",
+    "Translation": "yesterday",
+    "Sentence": "Gestern war ich krank."
+  },
+  {
+    "Word": "gestorben",
+    "Translation": "to pass away",
+    "Sentence": "Meine Frau ist gestern gestorben"
+  },
+  {
+    "Word": "das Getränk, -e",
+    "Translation": "drink, beverage",
+    "Sentence": "Mein Libelingsgetränk ist Tomatensaft."
+  },
+  {
+    "Word": "das Gewicht",
+    "Translation": "weight",
+    "Sentence": "Bei \"Gewicht\" schreibst du: 62 Kilo."
+  },
+  {
+    "Word": "gewinnen",
+    "Translation": "to win",
+    "Sentence": "Wer gewinnt das Spiel?"
+  },
+  {
+    "Word": "das Glas, -ä, er",
+    "Translation": "glass",
+    "Sentence": "Bitte noch ein Glas Wein! Wir brauchen noch drei Gläser."
+  },
+  {
+    "Word": "glauben",
+    "Translation": "to believe",
+    "Sentence": "Sie können mir glauben, es ist so. Ich glaube, er kommt gleich."
+  },
+  {
+    "Word": "gleich",
+    "Translation": "same, immediately, right away",
+    "Sentence": "Das ist mir gleich. Das ist der gleiche Preis. Ich komme gleich."
+  },
+  {
+    "Word": "das Gleis, -e",
+    "Translation": "platform",
+    "Sentence": "Der ICE nach Berlin hält heute an Gleis 12."
+  },
+  {
+    "Word": "das Glück",
+    "Translation": "luck",
+    "Sentence": "Viel Glück!"
+  },
+  {
+    "Word": "glücklich",
+    "Translation": "happy",
+    "Sentence": "Meine Kinder sind glücklich verheiratet."
+  },
+  {
+    "Word": "der Glückwunsch",
+    "Translation": "congratulations, felicitations",
+    "Sentence": "Herzlichen Glückwunsch zum Geburtstag."
+  },
+  {
+    "Word": "Grad (Celsius)",
+    "Translation": "degrees (Celsius)",
+    "Sentence": "Heute haben wir dreißig Grad."
+  },
+  {
+    "Word": "gratulieren",
+    "Translation": "to give congratulations to",
+    "Sentence": "Ich gratuliere dir!"
+  },
+  {
+    "Word": "grillen",
+    "Translation": "to grill",
+    "Sentence": "Heute grillien wir im Garten."
+  },
+  {
+    "Word": "groß",
+    "Translation": "tall, large",
+    "Sentence": "Mein Bruder und ich sind gleich groß. Frankfurt ist eine große Stadt"
+  },
+  {
+    "Word": "die Größe",
+    "Translation": "size",
+    "Sentence": "Haben Sie das auch in Größe 40?"
+  },
+  {
+    "Word": "die Großeltern (pl.)",
+    "Translation": "grandparents",
+    "Sentence": "Meine Großeltern leben in Japan."
+  },
+  {
+    "Word": "die Großmutter",
+    "Translation": "grandmother",
+    "Sentence": "Meine Großmutter heißt Eva."
+  },
+  {
+    "Word": "die Großvater",
+    "Translation": "grandfather",
+    "Sentence": "Mein Großvater ist schon 80."
+  },
+  {
+    "Word": "die Gruppe, -n",
+    "Translation": "group",
+    "Sentence": "Die erste Gruppe beginnt um 16 Uhr."
+  },
+  {
+    "Word": "der Gruß, -ü, e",
+    "Translation": "greetings",
+    "Sentence": "Viele Grüße an Ihre Frau. Mit freundlichen Grüßen."
+  },
+  {
+    "Word": "gültig",
+    "Translation": "valid",
+    "Sentence": "Der Pass ist nicht mehr gültig."
+  },
+  {
+    "Word": "günstig",
+    "Translation": "cheap",
+    "Sentence": "Dort gibt es günstige Angebote."
+  },
+  {
+    "Word": "gut",
+    "Translation": "good",
+    "Sentence": "Das finde ich gut. Ich komme um 13 Uhr. -Gut! Guten Morgen! Ein gutes neues Jahr! Guten Apptetit!"
+  },
+  {
+    "Word": "das Haar, -e",
+    "Translation": "hair",
+    "Sentence": "Sie hat lange Haare."
+  },
+  {
+    "Word": "haben",
+    "Translation": "to have",
+    "Sentence": "Ich habe ein neues Auto."
+  },
+  {
+    "Word": "das Hähnchen, -",
+    "Translation": "chicken",
+    "Sentence": "Ein Hähnchen mit Pommes bitte!"
+  },
+  {
+    "Word": "die Halbpension",
+    "Translation": "half-board",
+    "Sentence": "Möchten Sie Vollpension oder Halbpension?"
+  },
+  {
+    "Word": "die Halle",
+    "Translation": "hall",
+    "Sentence": "Wir treffen uns in Halle B."
+  },
+  {
+    "Word": "hallo",
+    "Translation": "hello",
+    "Sentence": "Hallo Inge! Wie geht's?"
+  },
+  {
+    "Word": "halten",
+    "Translation": "to stop",
+    "Sentence": "Dieser Zug hält nicht in Rüdesheim."
+  },
+  {
+    "Word": "die Haltestelle",
+    "Translation": "station",
+    "Sentence": "An der nächsten Haltestelle müssen Sie aussteigen."
+  },
+  {
+    "Word": "die Hand, -ä, e",
+    "Translation": "hand",
+    "Sentence": "Er gibt mir die hand."
+  },
+  {
+    "Word": "das Handy, -s",
+    "Translation": "phone",
+    "Sentence": "In der Schule bitte die Handys ausmachen!"
+  },
+  {
+    "Word": "das Haus, -ä, er",
+    "Translation": "house",
+    "Sentence": "In welchen Haus wohnst du? Ich gehe jetzt nach Hause. Paul ist nicht zu Hause."
+  },
+  {
+    "Word": "die Hausaufgabe, -n",
+    "Translation": "homework",
+    "Sentence": "Kannst du mir bei den Hausaufgaben helfen?"
+  },
+  {
+    "Word": "die Hausfrau, -en/ der Hausmann",
+    "Translation": "housewife, househusband",
+    "Sentence": "Die Hausfrau/ der Hausmann wäscht, kocht und kauft ein."
+  },
+  {
+    "Word": "die Heimat",
+    "Translation": "home, homeland",
+    "Sentence": "Ich komme aus de Schweiz. Das ist meine Heimat."
+  },
+  {
+    "Word": "heiraten",
+    "Translation": "to married",
+    "Sentence": "Meine Schwester heiratet einen Japaner."
+  },
+  {
+    "Word": "heißen",
+    "Translation": "to be called",
+    "Sentence": "Ich heiße Charlotte Meier.  Wie heißt das auf Deutsch?"
+  },
+  {
+    "Word": "helfen",
+    "Translation": "to help",
+    "Sentence": "Können Sie mir helfen, bitte?"
+  },
+  {
+    "Word": "hell",
+    "Translation": "bright",
+    "Sentence": "Im Sommer ist es bis 21 Uhr hell."
+  },
+  {
+    "Word": "der Herd",
+    "Translation": "stove",
+    "Sentence": "In der neuen Küche fehlt noch der Herd."
+  },
+  {
+    "Word": "der Herr, -en",
+    "Translation": "man, Mr.",
+    "Sentence": "Guten Tag, Herr Sommer!"
+  },
+  {
+    "Word": "herzlich",
+    "Translation": "sincere",
+    "Sentence": "Herzlichen Glückwunsch!"
+  },
+  {
+    "Word": "heute",
+    "Translation": "today",
+    "Sentence": "Heute ist ein schöner Tag."
+  },
+  {
+    "Word": "hier",
+    "Translation": "here",
+    "Sentence": "Hier ist 06131-553221, Pamela Linke. Hier wohne ich."
+  },
+  {
+    "Word": "die Hilfe",
+    "Translation": "help",
+    "Sentence": "Hilfe! Bitte helfen Sie mir! Brauchen Sie meine Hilfe?"
+  },
+  {
+    "Word": "hinten",
+    "Translation": "behind",
+    "Sentence": "Die Tür zum Aussteigen ist hinten."
+  },
+  {
+    "Word": "das Hobby, -s",
+    "Translation": "hobby",
+    "Sentence": "Meine Hobbys sind Wandern und Schwimmen."
+  },
+  {
+    "Word": "hoch",
+    "Translation": "high",
+    "Sentence": "Der Mount Everest ist 8.880 Meter hoch."
+  },
+  {
+    "Word": "die Hochzeit",
+    "Translation": "wedding",
+    "Sentence": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+  },
+  {
+    "Word": "holen",
+    "Translation": "to get, to fetch, to pick up",
+    "Sentence": "Ich hole zwei Flaschen Wasser aus der Küche."
+  },
+  {
+    "Word": "hören",
+    "Translation": "to hear",
+    "Sentence": "Hör mal! Was ist das? Ich habe das Lied schom mal gehört."
+  },
+  {
+    "Word": "das Hotel, -s",
+    "Translation": "hotel",
+    "Sentence": "Im Urlaub sind wir in einem Hotel am Meer."
+  },
+  {
+    "Word": "der Hund, -e",
+    "Translation": "dog",
+    "Sentence": "Der Hund ist noch jung."
+  },
+  {
+    "Word": "der Hunger",
+    "Translation": "hunger",
+    "Sentence": "Ich habe Hunger! Wann ist das Essen fertig?"
+  },
+  {
+    "Word": "ich",
+    "Translation": "I",
+    "Sentence": "Ich heiße Veronika."
+  },
+  {
+    "Word": "ihr/ihm/ihn",
+    "Translation": "him/her/it/them",
+    "Sentence": "Gib ihr/ihm bitte das Buch. Ruf ihn bitte an."
+  },
+  {
+    "Word": "immer ",
+    "Translation": "always",
+    "Sentence": "Frau Bast kommt immer zu spät."
+  },
+  {
+    "Word": "in",
+    "Translation": "in",
+    "Sentence": "Ich wohne in Wiesbaden. Der Zug kommt in fünf Minuten. Frau Rausch arbeitet in einem Geschäft. Komm, wir gehen ins Kino."
+  },
+  {
+    "Word": "die Information, -en",
+    "Translation": "information",
+    "Sentence": "Wenn Sie Fragen haben, gehen Sie zur Information. Wir haben hier wichtige Informationen für Sie."
+  },
+  {
+    "Word": "international",
+    "Translation": "international",
+    "Sentence": "Unser Deutschkurst ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China..."
+  },
+  {
+    "Word": "das Internet",
+    "Translation": "internet",
+    "Sentence": "Das findest du im Internet."
+  },
+  {
+    "Word": "ja",
+    "Translation": "yes",
+    "Sentence": "Sind Sie Herr Watanabe? - Ja."
+  },
+  {
+    "Word": "die Jacke, -n",
+    "Translation": "jacket",
+    "Sentence": "Zieh dir eine Jacke an. Es ist kalt."
+  },
+  {
+    "Word": "jed-",
+    "Translation": "every",
+    "Sentence": "Blumen kansst du in jedem Bahnhof kaufen."
+  },
+  {
+    "Word": "jetzt",
+    "Translation": "now",
+    "Sentence": "Jetzt machen wir eine Pause."
+  },
+  {
+    "Word": "der Job, -s",
+    "Translation": "job",
+    "Sentence": "Jenny hat einen neuen Job bei der Post."
+  },
+  {
+    "Word": "der Jugendliche, -n",
+    "Translation": "adolescent, teenager",
+    "Sentence": "Viele Jugendliche kaufen gern ein."
+  },
+  {
+    "Word": "jung",
+    "Translation": "young",
+    "Sentence": "Claudia ist 21. - Was? Noch so jung?"
+  },
+  {
+    "Word": "der Junge, -n",
+    "Translation": "boy",
+    "Sentence": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
+  },
+  {
+    "Word": "der Kaffee",
+    "Translation": "coffee",
+    "Sentence": "Zum Frühstück trinke ich immer Kaffee."
+  },
+  {
+    "Word": "kaputt",
+    "Translation": "broken",
+    "Sentence": "Das Glas war teuer. Es geht sehr leicht kaputt."
+  },
+  {
+    "Word": "die Karte, -n",
+    "Translation": "card, map, menu",
+    "Sentence": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. Wollen wir Karten spielen? Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."
+  },
+  {
+    "Word": "(Kredit)-Karte, -n",
+    "Translation": "credit card",
+    "Sentence": "Kann ich auch mit Karte (be-) zahlen?"
+  },
+  {
+    "Word": "die Kartoffel, -n",
+    "Translation": "potato",
+    "Sentence": "Für Pommes frites braucht man Kartoffeln."
+  },
+  {
+    "Word": "die Kasse",
+    "Translation": "cash register, checkout",
+    "Sentence": "Zahlen Sie bitte an der Kasse."
+  },
+  {
+    "Word": "kaufen",
+    "Translation": "to buy",
+    "Sentence": "Tim kauft sich ein neues Auto."
+  },
+  {
+    "Word": "kein",
+    "Translation": "no, none",
+    "Sentence": "Es gibt keine Eintrittskarten mehr."
+  },
+  {
+    "Word": "kennen",
+    "Translation": "to be familiar with, to know",
+    "Sentence": "Kennen Sie diese Frau? - Nein, leider nicht."
+  },
+  {
+    "Word": "kennenlernen",
+    "Translation": "to get to know",
+    "Sentence": "Wir sind neu hier. Wir möchten Sie kennenlernen."
+  },
+  {
+    "Word": "das Kind, -er",
+    "Translation": "child",
+    "Sentence": "Wie viele Kinder haben Sie?"
+  },
+  {
+    "Word": "der Kindergarten",
+    "Translation": "kindergarten",
+    "Sentence": "Die kleine Laure geht schon in den Kindergarten."
+  },
+  {
+    "Word": "das Kino, -s",
+    "Translation": "movie theater",
+    "Sentence": "Wir sehen heute Abend im Kino einen schönen Film."
+  },
+  {
+    "Word": "der Kiosk",
+    "Translation": "newsstand",
+    "Sentence": "Am Kiost bekommen Sie Getränke, Zigaretten und Zeitungen."
+  },
+  {
+    "Word": "klar",
+    "Translation": "clear",
+    "Sentence": "Kommst du mit? - Klar!"
+  },
+  {
+    "Word": "die Klasse",
+    "Translation": "class",
+    "Sentence": "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer 2. Klasse."
+  },
+  {
+    "Word": "die Kleidung",
+    "Translation": "clothes",
+    "Sentence": "Wo finde ich Kleidung? - Jacken im ersten, Jeans im zweiten Stock."
+  },
+  {
+    "Word": "klein",
+    "Translation": "small",
+    "Sentence": "Eltville ist eine kleine Stadt am Rhein."
+  },
+  {
+    "Word": "kochen",
+    "Translation": "to cook",
+    "Sentence": "Herr Georgi kann gut kochen."
+  },
+  {
+    "Word": "der Koffer, -",
+    "Translation": "suitcase",
+    "Sentence": "Ist das Ihr Koffer?"
+  },
+  {
+    "Word": "der Kollege, -n",
+    "Translation": "colleague",
+    "Sentence": "Wie heißt die neue Kollegin?"
+  },
+  {
+    "Word": "kommen",
+    "Translation": "to come",
+    "Sentence": "Woher kommen Sie? - Aus Frankreich. Kommst du mit ins Schwimmbad?"
+  },
+  {
+    "Word": "können",
+    "Translation": "to be able to",
+    "Sentence": "Ich kann Deutsch und Russisch. Können Sie mir helfen?"
+  },
+  {
+    "Word": "das Konto",
+    "Translation": "account",
+    "Sentence": "Das Geld überweisen wir am ersten März auf Ihr Konto."
+  },
+  {
+    "Word": "der Kopf",
+    "Translation": "head",
+    "Sentence": "Mein Kopf tut weh!"
+  },
+  {
+    "Word": "kosten",
+    "Translation": "to cost",
+    "Sentence": "Wie viel kostet das? - 10 Euro."
+  },
+  {
+    "Word": "krank",
+    "Translation": "sick, ill",
+    "Sentence": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+  },
+  {
+    "Word": "kriegen",
+    "Translation": "to obtain",
+    "Sentence": "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+  },
+  {
+    "Word": "die Küche",
+    "Translation": "kitchen",
+    "Sentence": "Der neue Herd kommt in die Küche."
+  },
+  {
+    "Word": "der Kuchen",
+    "Translation": "cake",
+    "Sentence": "Ich nehme ein Stück Kuchen."
+  },
+  {
+    "Word": "der Kugelschreiber",
+    "Translation": "pen",
+    "Sentence": "Hast du einen Kugelschreiber für mich?"
+  },
+  {
+    "Word": "der Kühlschrank",
+    "Translation": "fridge",
+    "Sentence": "Haben wir noch Milch? - Ja, im Kühlschrank."
+  },
+  {
+    "Word": "kulturell",
+    "Translation": "cultural",
+    "Sentence": "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+  },
+  {
+    "Word": "sich kümmern",
+    "Translation": "to take care of",
+    "Sentence": "Jede Mutter kümmert sich um ihre kleinen Kinder."
+  },
+  {
+    "Word": "der Kunde, -n",
+    "Translation": "customer",
+    "Sentence": "Einen Moment, bitte. Ich habe eine Kundin."
+  },
+  {
+    "Word": "der Kurs, -e",
+    "Translation": "course",
+    "Sentence": "Der Deutschkurs geht bis zum Sommer."
+  },
+  {
+    "Word": "kurz",
+    "Translation": "short",
+    "Sentence": "Ricardo hat kurzes Haar."
+  },
+  {
+    "Word": "lachen",
+    "Translation": "to smile",
+    "Sentence": "Die Kinder lachen viel."
+  },
+  {
+    "Word": "der Laden, -a",
+    "Translation": "store",
+    "Sentence": "Im Buchladen können Sie Bücher kaufen."
+  },
+  {
+    "Word": "das Land, -ä, er",
+    "Translation": "country",
+    "Sentence": "Italien ist in schönes Land."
+  },
+  {
+    "Word": "lang",
+    "Translation": "long",
+    "Sentence": "Die Jeans ist zu lang."
+  },
+  {
+    "Word": "lange",
+    "Translation": "lengthy",
+    "Sentence": "Wie lange fährt der Zug von Hamburg nach Berlin?"
+  },
+  {
+    "Word": "langsam",
+    "Translation": "slow",
+    "Sentence": "Könnten Sie bitte etwas langsamer sprechen?"
+  },
+  {
+    "Word": "laufen",
+    "Translation": "to walk, to run",
+    "Sentence": "Ich möchte nicht Auto fahren, ich möchte laufen."
+  },
+  {
+    "Word": "laut",
+    "Translation": "loud",
+    "Sentence": "Nicht so laut! Das Baby schläft."
+  },
+  {
+    "Word": "leben",
+    "Translation": "to live",
+    "Sentence": "Sie lebt bei ihrer Schwester. Ihre Eltern leben nicht mehr."
+  },
+  {
+    "Word": "das Leben",
+    "Translation": "life",
+    "Sentence": "Das Leben in diesen Land ist teuer."
+  },
+  {
+    "Word": "die Lebensmittel (pl.)",
+    "Translation": "groceries",
+    "Sentence": "Lebensmittel bekommen Sie im Supermarkt."
+  },
+  {
+    "Word": "ledig",
+    "Translation": "single",
+    "Sentence": "Sind Sie verheiratet? - Nein. Ledig."
+  },
+  {
+    "Word": "legen",
+    "Translation": "to lay, to place",
+    "Sentence": "Legen Sie das Buck auf den Tisch."
+  },
+  {
+    "Word": "der Lehrer, -",
+    "Translation": "teacher",
+    "Sentence": "Unsere Deutschlehrerin heißt Frau Müller."
+  },
+  {
+    "Word": "leicht",
+    "Translation": "light, easy",
+    "Sentence": "Der Koffer ist leicht. Deutsch ist nicht leicht."
+  },
+  {
+    "Word": "leider",
+    "Translation": "unfortunately",
+    "Sentence": "Leider kanni ch nicht kommen. Ich muss zum Arzt."
+  },
+  {
+    "Word": "leise",
+    "Translation": "quiet",
+    "Sentence": "Seid leise. Die anderen schlafen schon."
+  },
+  {
+    "Word": "lernen",
+    "Translation": "to learn",
+    "Sentence": "Wie lange lernen Sie schon Deutsch?"
+  },
+  {
+    "Word": "lesen",
+    "Translation": "to read",
+    "Sentence": "Ich lese ein Buch von García Márquez."
+  },
+  {
+    "Word": "letzt-",
+    "Translation": "last",
+    "Sentence": "Morgen ist der letzte Kurstag."
+  },
+  {
+    "Word": "die Leute(pl.)",
+    "Translation": "people",
+    "Sentence": "In der Disko sind viele Leute."
+  },
+  {
+    "Word": "das Licht",
+    "Translation": "light",
+    "Sentence": "Wo macht man hier das Licht an?"
+  },
+  {
+    "Word": "lieb-",
+    "Translation": "dear",
+    "Sentence": "Liebe Susanne, lieber Hans,"
+  },
+  {
+    "Word": "lieben",
+    "Translation": "to love",
+    "Sentence": "Ich liebe dich!"
+  },
+  {
+    "Word": "lieber",
+    "Translation": "preferably",
+    "Sentence": "Sie fährt lieber mit der Bahn."
+  },
+  {
+    "Word": "Lieblings-",
+    "Translation": "favorite",
+    "Sentence": "Mein Lieblingsfilm ist \"Schwarze Augen\"."
+  },
+  {
+    "Word": "das Lied, -er",
+    "Translation": "song",
+    "Sentence": "Welches ist dein Lieblingslied?"
+  },
+  {
+    "Word": "liegen",
+    "Translation": "to lie, to be located",
+    "Sentence": "Um neun Uhr liegt Judit noch im Bett. Frankfurt liegt am Main."
+  },
+  {
+    "Word": "links",
+    "Translation": "left",
+    "Sentence": "Gehen Sie die nächste Straße links."
+  },
+  {
+    "Word": "der Lkw, -s",
+    "Translation": "truck",
+    "Sentence": "Dieser Lastkraftwagen ist sehr groß."
+  },
+  {
+    "Word": "das Lokal",
+    "Translation": "pub",
+    "Sentence": "In unserer Straße gibt es ein neues Lokal."
+  },
+  {
+    "Word": "die Lösung, -en",
+    "Translation": "solution",
+    "Sentence": "Die Lösung ist ganz einfach."
+  },
+  {
+    "Word": "lustig",
+    "Translation": "funny",
+    "Sentence": "Frau Mertens ist lustig. Sie lacht immer."
+  },
+  {
+    "Word": "machen",
+    "Translation": "to make, to do sth",
+    "Sentence": "Was machst du heute Abend? Ich muss jetzt das Essen machen. Das macht 5 Euro 95. Das macht nichts."
+  },
+  {
+    "Word": "das Mädchen, -",
+    "Translation": "girl",
+    "Sentence": "Familie Kurz bekommt ein Baby. - Junge oder Mädchen?"
+  },
+  {
+    "Word": "man",
+    "Translation": "one (person)",
+    "Sentence": "Hier darf man nicht rauchen."
+  },
+  {
+    "Word": "der Mann, -ä, er",
+    "Translation": "man, husband",
+    "Sentence": "Mein Mann arbeitet bei der Polizei."
+  },
+  {
+    "Word": "männlich",
+    "Translation": "masculine",
+    "Sentence": "Kreuzen Sie bitte an: \"weiblich\" oder \"mäännlich\"."
+  },
+  {
+    "Word": "die Maschine, -n",
+    "Translation": "machine",
+    "Sentence": "Die Waschmaschine ist günstig."
+  },
+  {
+    "Word": "das Meer",
+    "Translation": "sea",
+    "Sentence": "Wir machen Urlaub am Meer."
+  },
+  {
+    "Word": "mehr",
+    "Translation": "more",
+    "Sentence": "Diese Auto kostet 1000 Euro omehr als das andere."
+  },
+  {
+    "Word": "mein",
+    "Translation": "my",
+    "Sentence": "Mein Vater ist Arzt."
+  },
+  {
+    "Word": "meist-",
+    "Translation": "most",
+    "Sentence": "Die meisten Norddeutschen sind sehr groß."
+  },
+  {
+    "Word": "der Mensch, -en",
+    "Translation": "person",
+    "Sentence": "Die Menschen sind hier anders als bei uns."
+  },
+  {
+    "Word": "mieten",
+    "Translation": "to rent",
+    "Sentence": "Ich möchte ein Auto mieten."
+  },
+  {
+    "Word": "die Miete",
+    "Translation": "rent",
+    "Sentence": "Die Miete für diese Wohnung ist 600 Euro."
+  },
+  {
+    "Word": "die Milch",
+    "Translation": "milk",
+    "Sentence": "Die Milch steht im Kühlschrank."
+  },
+  {
+    "Word": "mit",
+    "Translation": "with",
+    "Sentence": "Trinken Sie den Kaffee mit Milch?"
+  },
+  {
+    "Word": "mitbringen",
+    "Translation": "to bring with",
+    "Sentence": "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+  },
+  {
+    "Word": "mitkommen",
+    "Translation": "to come with",
+    "Sentence": "Ich gehe ins Kino. Kommst du mit?"
+  },
+  {
+    "Word": "mitmachen",
+    "Translation": "to participate, to join in",
+    "Sentence": "Warum macht ihr nicht mit?"
+  },
+  {
+    "Word": "mitnehmen",
+    "Translation": "to take with",
+    "Sentence": "Nehmen wir meine Schwester ins Kino mit?"
+  },
+  {
+    "Word": "die Mitte",
+    "Translation": "the middle",
+    "Sentence": "Der Lehrer steht in der Mitte des Klassenzimmers."
+  },
+  {
+    "Word": "die Möbel (pl.)",
+    "Translation": "furniture",
+    "Sentence": "Sind die Möbel neu?"
+  },
+  {
+    "Word": "möchten",
+    "Translation": "to wish for",
+    "Sentence": "Was möchten Sie trinken?"
+  },
+  {
+    "Word": "mögen",
+    "Translation": "to like",
+    "Sentence": "Magst du Kaffee oder Tee?"
+  },
+  {
+    "Word": "möglich",
+    "Translation": "possible",
+    "Sentence": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+  },
+  {
+    "Word": "der Moment",
+    "Translation": "moment",
+    "Sentence": "Moment mal bitte! Einen Moment bitte."
+  },
+  {
+    "Word": "morgen",
+    "Translation": "tomorrow",
+    "Sentence": "Morgen beginnt die Schule um 10 Uhr."
+  },
+  {
+    "Word": "müde",
+    "Translation": "tired",
+    "Sentence": "Ich bin müde. Ich gehe schlafen."
+  },
+  {
+    "Word": "der Mund",
+    "Translation": "mouth",
+    "Sentence": "Öffnen Sie den Mund."
+  },
+  {
+    "Word": "müssen",
+    "Translation": "to be obligated to",
+    "Sentence": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+  },
+  {
+    "Word": "die Mutter, -ü",
+    "Translation": "mother",
+    "Sentence": "Frau Berghäuser ist die Mutter von Michaela."
+  },
+  {
+    "Word": "nach",
+    "Translation": "towards, after",
+    "Sentence": "Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12."
+  },
+  {
+    "Word": "nächst-",
+    "Translation": "next",
+    "Sentence": "Sehen wir uns nächste Woche?"
+  },
+  {
+    "Word": "der Name, -n",
+    "Translation": "name",
+    "Sentence": "Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname."
+  },
+  {
+    "Word": "nehmen",
+    "Translation": "to take",
+    "Sentence": "Heute gibt es Hähnchen. Das nehme ich. Ich nehme den Bus."
+  },
+  {
+    "Word": "nein",
+    "Translation": "no",
+    "Sentence": "Fährst du auch nach München? - Nein, ich habe keine Zeit."
+  },
+  {
+    "Word": "neu",
+    "Translation": "new",
+    "Sentence": "Ich bin der neue Kollege. Wir haben eine neue Wohnung.,"
+  },
+  {
+    "Word": "nicht",
+    "Translation": "not",
+    "Sentence": "Das stimmt nicht. Das ist doch schön, nicht?"
+  },
+  {
+    "Word": "nichts",
+    "Translation": "nothing",
+    "Sentence": "Das macht nichts. Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+  },
+  {
+    "Word": "nie ",
+    "Translation": "never",
+    "Sentence": "Er kommt nie pünktlich."
+  },
+  {
+    "Word": "noch",
+    "Translation": "still, yet",
+    "Sentence": "Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro."
+  },
+  {
+    "Word": "normal",
+    "Translation": "normal",
+    "Sentence": "75 kg. Sein Gewicht ist normal"
+  },
+  {
+    "Word": "die Nummer, -n",
+    "Translation": "number",
+    "Sentence": "Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie?. Können Sie mir Ihre Nummer geben?"
+  },
+  {
+    "Word": "nur",
+    "Translation": "only",
+    "Sentence": "Ich möchte nur ein Glas Wasser."
+  },
+  {
+    "Word": "oben",
+    "Translation": "above",
+    "Sentence": "Ich wohne oben."
+  },
+  {
+    "Word": "das Obst",
+    "Translation": "fruit",
+    "Sentence": "Im Sommer ist das Obst billig."
+  },
+  {
+    "Word": "oder",
+    "Translation": "or",
+    "Sentence": "Wann können Sie kommen - heute oder morgen?"
+  },
+  {
+    "Word": "öffnen",
+    "Translation": "to open",
+    "Sentence": "Ich öffne die Tür."
+  },
+  {
+    "Word": "geöffnet",
+    "Translation": "open",
+    "Sentence": "Der Laden ist samstags bist 16.00 Uhr geöffnet."
+  },
+  {
+    "Word": "oft",
+    "Translation": "often",
+    "Sentence": "Petra treffe ich oft."
+  },
+  {
+    "Word": "ohne",
+    "Translation": "without",
+    "Sentence": "Ohne Geld kann er nichts kaufen."
+  },
+  {
+    "Word": "das Öl",
+    "Translation": "oil",
+    "Sentence": "Den Salat machen wir ohne Öl."
+  },
+  {
+    "Word": "die Oma, -s",
+    "Translation": "grandmother",
+    "Sentence": "Meine Oma ist schon tot."
+  },
+  {
+    "Word": "der Opa, -s",
+    "Translation": "grandfather",
+    "Sentence": "Mein Opa heißt Hans."
+  },
+  {
+    "Word": "die Ordnung",
+    "Translation": "order",
+    "Sentence": "Das ist in Ordnung."
+  },
+  {
+    "Word": "der Ort, -e",
+    "Translation": "place, location",
+    "Sentence": "Der Ort liegt am Meer."
+  },
+  {
+    "Word": "das Papier",
+    "Translation": "paper",
+    "Sentence": "Hier sind Papier und Bleistift."
+  },
+  {
+    "Word": "die Papiere (pl.)",
+    "Translation": "papers",
+    "Sentence": "Haben Sie Ihre Papiere dabei?"
+  },
+  {
+    "Word": "der Partner, -/ die Partnerin, -nen",
+    "Translation": "partner",
+    "Sentence": "Sie ist meine Partnerin."
+  },
+  {
+    "Word": "die Party",
+    "Translation": "party",
+    "Sentence": "Heute Abend machen wir eine Party."
+  },
+  {
+    "Word": "der Pass, -ä, e",
+    "Translation": "passport",
+    "Sentence": "Im Hotel brauchst du deinen Pass."
+  },
+  {
+    "Word": "die Pause, -n",
+    "Translation": "break",
+    "Sentence": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+  },
+  {
+    "Word": "der Plan, -ä, e",
+    "Translation": "plan, map",
+    "Sentence": "Ich kaufe mir einen Stadtplan."
+  },
+  {
+    "Word": "der Platz",
+    "Translation": "place",
+    "Sentence": "Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5."
+  },
+  {
+    "Word": "der polizei",
+    "Translation": "police",
+    "Sentence": "Holen Sie die Polizei!"
+  },
+  {
+    "Word": "die Pommes frites (pl.)",
+    "Translation": "fries",
+    "Sentence": "Die Kinder essen Hähnchen mit Pommes frites."
+  },
+  {
+    "Word": "die Post",
+    "Translation": "post office",
+    "Sentence": "Wo ist die Post, bitte? Ist Post da?"
+  },
+  {
+    "Word": "die Postleitzahl",
+    "Translation": "zipcode",
+    "Sentence": "Wie ist Ihre Postleitzahl?"
+  },
+  {
+    "Word": "das Praktikum",
+    "Translation": "internship",
+    "Sentence": "Ich mache ein Praktikum bei Siemens."
+  },
+  {
+    "Word": "die Praxis",
+    "Translation": "practice, doctor's office, clinic",
+    "Sentence": "Die Praxis ist ab acht Uhr geöffnet."
+  },
+  {
+    "Word": "der Preis, -e",
+    "Translation": "price",
+    "Sentence": "Die Preise sind hoch."
+  },
+  {
+    "Word": "das Problem, -e",
+    "Translation": "problem",
+    "Sentence": "Mein Problem ist die Sprache."
+  },
+  {
+    "Word": "der Prospekt, -e",
+    "Translation": "prospect",
+    "Sentence": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+  },
+  {
+    "Word": "die Prüfung",
+    "Translation": "exam",
+    "Sentence": "Die Prüfung ist am Montag um 8.00 Uhr."
+  },
+  {
+    "Word": "pünktlich",
+    "Translation": "punctual, on time",
+    "Sentence": "Der Bus fährt pünktlich am acht Uhr. Herr Müller ist immer pünktlich."
+  },
+  {
+    "Word": "Rad fahren",
+    "Translation": "to ride a bike",
+    "Sentence": "Das Kind kann schon Rad fahren."
+  },
+  {
+    "Word": "rauchen",
+    "Translation": "to smoke",
+    "Sentence": "Ich rauche nicht."
+  },
+  {
+    "Word": "der Raum, -ä, e",
+    "Translation": "room",
+    "Sentence": "Der Unterricht ist in Raum 332."
+  },
+  {
+    "Word": "die Rechnung, -en",
+    "Translation": "bill",
+    "Sentence": "Die Rechnung, bitte."
+  },
+  {
+    "Word": "rechts",
+    "Translation": "right",
+    "Sentence": "Die Schillerstraße ist hier rechts."
+  },
+  {
+    "Word": "regnen",
+    "Translation": "to rain",
+    "Sentence": "Heute regnet es."
+  },
+  {
+    "Word": "der Regen",
+    "Translation": "rain",
+    "Sentence": "Bei diesem Regen gehe ich nicht raus."
+  },
+  {
+    "Word": "der Reis",
+    "Translation": "rice",
+    "Sentence": "Ich esse gern Reis."
+  },
+  {
+    "Word": "reisen",
+    "Translation": "to travel",
+    "Sentence": "Ich reise gern."
+  },
+  {
+    "Word": "die Reise",
+    "Translation": "journey",
+    "Sentence": "Wir machen eine Reise nach Österreich."
+  },
+  {
+    "Word": "das Reisebüro, -s",
+    "Translation": "travel agency",
+    "Sentence": "Mein Mann arbeitet im Reisebüro."
+  },
+  {
+    "Word": "der Reiseführer",
+    "Translation": "travel guide",
+    "Sentence": "Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter."
+  },
+  {
+    "Word": "reparieren",
+    "Translation": "to repair",
+    "Sentence": "Er hat das Fahrrad repariert."
+  },
+  {
+    "Word": "die Reparatur",
+    "Translation": "repair",
+    "Sentence": "Die Reparatur ist sehr teuer."
+  },
+  {
+    "Word": "das Restaurant, -s",
+    "Translation": "restaurant",
+    "Sentence": "Wir essen heute in einem Restaurant."
+  },
+  {
+    "Word": "die Rezeption",
+    "Translation": "reception",
+    "Sentence": "Fragen Sie bitte im Hotel an der Rezeption."
+  },
+  {
+    "Word": "richtig",
+    "Translation": "right, true",
+    "Sentence": "Habe ich das richtig verstanden? Das ist richtig."
+  },
+  {
+    "Word": "riechen",
+    "Translation": "to smell",
+    "Sentence": "Dieser Wein riecht gut."
+  },
+  {
+    "Word": "ruhig",
+    "Translation": "quiet, calm",
+    "Sentence": "Ich möchte ein ruhiges Zimmer."
+  },
+  {
+    "Word": "der Saft",
+    "Translation": "juice",
+    "Sentence": "Möchtest du einen Apfelsaft?"
+  },
+  {
+    "Word": "sagen",
+    "Translation": "to say",
+    "Sentence": "Sag mal, wie geht es dir denn?"
+  },
+  {
+    "Word": "der Salat",
+    "Translation": "salad, lettuce",
+    "Sentence": "Wie schmeckt dir der Salat?"
+  },
+  {
+    "Word": "das Salz",
+    "Translation": "salt",
+    "Sentence": "Herr Ober, kanni ch bitte Salz haben?"
+  },
+  {
+    "Word": "Satz, -ä, e",
+    "Translation": "sentence",
+    "Sentence": "Dieser Satz ist sehr einfach."
+  },
+  {
+    "Word": "die S-Bahn",
+    "Translation": "city train",
+    "Sentence": "Ich nehme lieber die S-Bahn."
+  },
+  {
+    "Word": "der Schalter",
+    "Translation": "counter",
+    "Sentence": "Gehen Sie bitte zum Schalter drei!"
+  },
+  {
+    "Word": "scheinen",
+    "Translation": "to shine",
+    "Sentence": "Die Sonne scheint."
+  },
+  {
+    "Word": "schicken",
+    "Translation": "to send",
+    "Sentence": "Bitte schicken Sie mir eine E-Mail."
+  },
+  {
+    "Word": "das Schild, -er",
+    "Translation": "sign, shield",
+    "Sentence": "Haben Sie nicht das Schild gesehen?"
+  },
+  {
+    "Word": "der Schinken, -",
+    "Translation": "pork",
+    "Sentence": "Ich möchte gern ein Schinkenbrot."
+  },
+  {
+    "Word": "schlafen",
+    "Translation": "to sleep",
+    "Sentence": "Ich schlafe meistens acht Stunden."
+  },
+  {
+    "Word": "schlecht",
+    "Translation": "bad",
+    "Sentence": "Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter."
+  },
+  {
+    "Word": "schließen",
+    "Translation": "to close",
+    "Sentence": "Bitte, schließen Sie die Tür."
+  },
+  {
+    "Word": "geschlossen",
+    "Translation": "closed",
+    "Sentence": "Die Bank hat am Samstag geschlossen."
+  },
+  {
+    "Word": "der Schluss",
+    "Translation": "conclusion",
+    "Sentence": "Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand."
+  },
+  {
+    "Word": "der Schlüssel, -",
+    "Translation": "key",
+    "Sentence": "Ich gebe Ihnen noch den Zimmerschlüssel."
+  },
+  {
+    "Word": "schmecken",
+    "Translation": "to taste",
+    "Sentence": "Schmeckt das gut?"
+  },
+  {
+    "Word": "schnell",
+    "Translation": "fast",
+    "Sentence": "Er fährt schnell."
+  },
+  {
+    "Word": "schon",
+    "Translation": "already",
+    "Sentence": "Ist das Essen schon fertig?"
+  },
+  {
+    "Word": "schön",
+    "Translation": "beautiful",
+    "Sentence": "Schönen Urlaub! Das ist sehr schön."
+  },
+  {
+    "Word": "der Schrank, -ä, e",
+    "Translation": "cabinet",
+    "Sentence": "Die Gläser stehen im Schrank."
+  },
+  {
+    "Word": "schreiben",
+    "Translation": "to write",
+    "Sentence": "Er schreibt jeden Tag fünfzig E-Mails."
+  },
+  {
+    "Word": "der Schuh, -e",
+    "Translation": "shoe",
+    "Sentence": "Zieh die Schuhe aus!"
+  },
+  {
+    "Word": "die Schule",
+    "Translation": "school",
+    "Sentence": "Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke."
+  },
+  {
+    "Word": "der Schüler, -",
+    "Translation": "pupil, schoolgoer",
+    "Sentence": "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+  },
+  {
+    "Word": "schwer",
+    "Translation": "heavy, difficult",
+    "Sentence": "Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit."
+  },
+  {
+    "Word": "die Schwester, -n",
+    "Translation": "sister",
+    "Sentence": "Meine Schwester kommt am Dienstag."
+  },
+  {
+    "Word": "schwimmen",
+    "Translation": "to swim",
+    "Sentence": "Ich schwimme jeden Tag einen Kilometer."
+  },
+  {
+    "Word": "das Schwimmbad",
+    "Translation": "swimming pool",
+    "Sentence": "Kommst du mit ins Schwimmbad?"
+  },
+  {
+    "Word": "der See",
+    "Translation": "sea",
+    "Sentence": "Komm, wir fahren zum Starnberger See."
+  },
+  {
+    "Word": "sehen",
+    "Translation": "to see",
+    "Sentence": "Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen."
+  },
+  {
+    "Word": "die Sehenswürdigkeit, -en",
+    "Translation": "place of interest, sight",
+    "Sentence": "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+  },
+  {
+    "Word": "sehr",
+    "Translation": "a lot, very",
+    "Sentence": "Danke sehr! Das ist sehr schwer."
+  },
+  {
+    "Word": "sein",
+    "Translation": "to be",
+    "Sentence": "Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig."
+  },
+  {
+    "Word": "an sein",
+    "Translation": "to be on",
+    "Sentence": "Das Licht ist noch an."
+  },
+  {
+    "Word": "auf sein",
+    "Translation": "to be off",
+    "Sentence": "Das Fenster ist noch auf."
+  },
+  {
+    "Word": "weg sein",
+    "Translation": "to be away, to be gone",
+    "Sentence": "Herr Meier ist schon weg."
+  },
+  {
+    "Word": "zu sein",
+    "Translation": "to be closed",
+    "Sentence": "Die Tür ist zu."
+  },
+  {
+    "Word": "seit",
+    "Translation": "since",
+    "Sentence": "Ich wohne seit drei Jahren in Köln."
+  },
+  {
+    "Word": "selbstständig",
+    "Translation": "independent",
+    "Sentence": "Er ist selbstständig."
+  },
+  {
+    "Word": "sich",
+    "Translation": "oneself",
+    "Sentence": "Sie müssen sich erst anmelden."
+  },
+  {
+    "Word": "sie",
+    "Translation": "them",
+    "Sentence": "Wie heißt sie?"
+  },
+  {
+    "Word": "Sie",
+    "Translation": "you",
+    "Sentence": "Wie heißen Sie?"
+  },
+  {
+    "Word": "sitzen",
+    "Translation": "to sit",
+    "Sentence": "Wo sitzen Sie?"
+  },
+  {
+    "Word": "so",
+    "Translation": "so, like this",
+    "Sentence": "Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war's/wär's!"
+  },
+  {
+    "Word": "das Sofa",
+    "Translation": "sofa",
+    "Sentence": "Das Sofa ist neu."
+  },
+  {
+    "Word": "sofort",
+    "Translation": "immediately",
+    "Sentence": "Bitte antworten Sie sofort."
+  },
+  {
+    "Word": "der Sohn, -ö, e",
+    "Translation": "son",
+    "Sentence": "Das ist Hans, mein Sohn."
+  },
+  {
+    "Word": "sollen",
+    "Translation": "shall",
+    "Sentence": "Die Sonne scheint."
+  },
+  {
+    "Word": "spät",
+    "Translation": "late",
+    "Sentence": "Es ist schon spät, ich muss gehen."
+  },
+  {
+    "Word": "später",
+    "Translation": "later",
+    "Sentence": "Das können wir später machen."
+  },
+  {
+    "Word": "die Speisekarte",
+    "Translation": "menu",
+    "Sentence": "Bringen Sie mir die Speisekarte, bitte."
+  },
+  {
+    "Word": "spielen",
+    "Translation": "to play",
+    "Sentence": "Die Kinder spielen draußen. Spielen Sie Karten?"
+  },
+  {
+    "Word": "der Sport",
+    "Translation": "sport",
+    "Sentence": "Ich mache viel Sport."
+  },
+  {
+    "Word": "die Sprache, -n",
+    "Translation": "language",
+    "Sentence": "Welche Sprachen sprichst du?"
+  },
+  {
+    "Word": "sprechen",
+    "Translation": "to speak",
+    "Sentence": "Kann ich (mit) Herrn Klein sprechen?"
+  },
+  {
+    "Word": "die Stadt, -ä, e",
+    "Translation": "city",
+    "Sentence": "Heidelberg ist eine alte Stadt."
+  },
+  {
+    "Word": "stehen",
+    "Translation": "to stand, to be",
+    "Sentence": "Ich glaube es nicht, aber es steht in der Zeitung. Der Bus steht schon an der Haltestelle."
+  },
+  {
+    "Word": "die Stelle, -n",
+    "Translation": "place",
+    "Sentence": "Ich habe einen neue Stelle."
+  },
+  {
+    "Word": "stellen",
+    "Translation": "to place, to put",
+    "Sentence": "Stell die Tasche rechts in die Ecke!"
+  },
+  {
+    "Word": "der Stock",
+    "Translation": "storey, floor",
+    "Sentence": "Unsere Wohnung liegt im ersten Stock."
+  },
+  {
+    "Word": "die Straße, -n",
+    "Translation": "street",
+    "Sentence": "In welcher Straße wohnen Sie?"
+  },
+  {
+    "Word": "die Straßenbahn",
+    "Translation": "streetcar",
+    "Sentence": "Wo fährt die Straßenbahn ab?"
+  },
+  {
+    "Word": "studieren",
+    "Translation": "to study",
+    "Sentence": "Ich studiere in Mainz."
+  },
+  {
+    "Word": "das Studium",
+    "Translation": "study",
+    "Sentence": "Das Studium beginnt im Oktober."
+  },
+  {
+    "Word": "der Student, -en",
+    "Translation": "student",
+    "Sentence": "Ich bin Studentin."
+  },
+  {
+    "Word": "die Stunde, -n",
+    "Translation": "hour",
+    "Sentence": "Ich bin einer Stunde züruck."
+  },
+  {
+    "Word": "suchen",
+    "Translation": "to search",
+    "Sentence": "Suchst du etwas?"
+  },
+  {
+    "Word": "tanzen",
+    "Translation": "to dance",
+    "Sentence": "Tanzen Sie gern?"
+  },
+  {
+    "Word": "die Tasche, -n",
+    "Translation": "bag",
+    "Sentence": "Ich habe die Sclüssel in der Tasche."
+  },
+  {
+    "Word": "das Taxi, -s",
+    "Translation": "taxi",
+    "Sentence": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+  },
+  {
+    "Word": "der Tee",
+    "Translation": "tea",
+    "Sentence": "Ich trinke morgens immer Tee."
+  },
+  {
+    "Word": "der Teil, -e",
+    "Translation": "part",
+    "Sentence": "Lies bitte auch den zweiten Teil."
+  },
+  {
+    "Word": "telefonieren",
+    "Translation": "to phone",
+    "Sentence": "Darf ich mal telefonieren?"
+  },
+  {
+    "Word": "das Telefon",
+    "Translation": "telephone",
+    "Sentence": "Haben Sie Telefon?"
+  },
+  {
+    "Word": "der Termin, -e",
+    "Translation": "appointment",
+    "Sentence": "Am besten machen wir sofort einen Termin."
+  },
+  {
+    "Word": "der Test",
+    "Translation": "test",
+    "Sentence": "Der Test war einfach."
+  },
+  {
+    "Word": "teuer",
+    "Translation": "expensive",
+    "Sentence": "Das ist mir zu teuer."
+  },
+  {
+    "Word": "der Text, -e",
+    "Translation": "text",
+    "Sentence": "Lesen Sie bitte diesen Text."
+  },
+  {
+    "Word": "das Theme",
+    "Translation": "theme",
+    "Sentence": "Wir sprechen heute über das Thema \"Essen und Trinken\"."
+  },
+  {
+    "Word": "das Ticket, -s",
+    "Translation": "ticket",
+    "Sentence": "Wie viel kostet das Ticket?"
+  },
+  {
+    "Word": "der Tisch, -e",
+    "Translation": "table",
+    "Sentence": "Die Fotos liegen auf dem Tisch."
+  },
+  {
+    "Word": "die Tochter, -ö",
+    "Translation": "daughter",
+    "Sentence": "Das ist meine Tochter Katharina."
+  },
+  {
+    "Word": "die Toilette, -en",
+    "Translation": "toilet",
+    "Sentence": "Wo ist die Toilette bitte?"
+  },
+  {
+    "Word": "die Tomate, -n",
+    "Translation": "tomato",
+    "Sentence": "Die Tomate ist noch grün."
+  },
+  {
+    "Word": "tot",
+    "Translation": "dead",
+    "Sentence": "Sein Vater ist schon lange tot."
+  },
+  {
+    "Word": "(sich) treffen",
+    "Translation": "meet oneself",
+    "Sentence": "Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags."
+  },
+  {
+    "Word": "die Treppe, -n",
+    "Translation": "stairs",
+    "Sentence": "Die Toilette? Die Treppe hoch und dannl inks."
+  },
+  {
+    "Word": "trinken",
+    "Translation": "to drink",
+    "Sentence": "Möchtest du etwas trinken?"
+  },
+  {
+    "Word": "tschüss",
+    "Translation": "goodbye",
+    "Sentence": "Junge Leute sagen meistens \"tschüss\" und nicht \"auf Wiedersehen\"."
+  },
+  {
+    "Word": "tun",
+    "Translation": "to do",
+    "Sentence": "Ich habe noch etwas zu tun. Was tut Ihr Mann?"
+  },
+  {
+    "Word": "über",
+    "Translation": "over, above",
+    "Sentence": "Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?"
+  },
+  {
+    "Word": "übernachten",
+    "Translation": "to spend the night",
+    "Sentence": "Du kannst bei mir übernachten."
+  },
+  {
+    "Word": "überweisen",
+    "Translation": "to transfer",
+    "Sentence": "Sie können das Geld auch überweisen."
+  },
+  {
+    "Word": "die Uhr",
+    "Translation": "clock, watch, time",
+    "Sentence": "Es ist vier Uhr."
+  },
+  {
+    "Word": "um",
+    "Translation": "around",
+    "Sentence": "Er kommt um sieben Uhr. Da kommt er gerade um die Ecke."
+  },
+  {
+    "Word": "umziehen",
+    "Translation": "to move, to relocate",
+    "Sentence": "Nächsten Monat ziehen wir um."
+  },
+  {
+    "Word": "und",
+    "Translation": "and",
+    "Sentence": "Peter und Helmut sind meine Söhne."
+  },
+  {
+    "Word": "unser-",
+    "Translation": "our",
+    "Sentence": "Das ist unsere Lehrerin."
+  },
+  {
+    "Word": "unten",
+    "Translation": "below, bottom",
+    "Sentence": "Er wohnt ganz unten im Haus."
+  },
+  {
+    "Word": "unter",
+    "Translation": "under",
+    "Sentence": "Unter uns wohnt eine Familie mit drei Kindern."
+  },
+  {
+    "Word": "der Unterricht",
+    "Translation": "class",
+    "Sentence": "Wir haben Unterricht on 8.00 bis 12.0 0Uhr."
+  },
+  {
+    "Word": "unterschreiben",
+    "Translation": "to sign",
+    "Sentence": "Wo muss ich unterschreiben?"
+  },
+  {
+    "Word": "die Unterschrift",
+    "Translation": "signature",
+    "Sentence": "Hier fehlt noch Ihre Unterschrift."
+  },
+  {
+    "Word": "der Urlaub",
+    "Translation": "vacation",
+    "Sentence": "Ich nehme im September Urlaub."
+  },
+  {
+    "Word": "der Vater, -ä",
+    "Translation": "father",
+    "Sentence": "Mein Vater ist Arbeiter."
+  },
+  {
+    "Word": "verboten",
+    "Translation": "forbidden",
+    "Sentence": "Hier ist Rauchen verboten."
+  },
+  {
+    "Word": "verdienen",
+    "Translation": "to earn",
+    "Sentence": "Ich verdiene 1500 Euro im Monat."
+  },
+  {
+    "Word": "der Verein",
+    "Translation": "club, association",
+    "Sentence": "Es gibt einen neuen Sportverein in der Stadt."
+  },
+  {
+    "Word": "verheiratet",
+    "Translation": "married",
+    "Sentence": "Ich bin verheiratet und habe drei Kinder."
+  },
+  {
+    "Word": "verkaufen",
+    "Translation": "to sell",
+    "Sentence": "Er verkauft sein altes Auto."
+  },
+  {
+    "Word": "der Verkäufer, -",
+    "Translation": "seller",
+    "Sentence": "Meine Mutter ist Verkäuferin im Kaufhaus."
+  },
+  {
+    "Word": "vermieten",
+    "Translation": "to rent out",
+    "Sentence": "Die Wohnung ist schon vermietet."
+  },
+  {
+    "Word": "der Vermieter",
+    "Translation": "renter",
+    "Sentence": "Unser Vermieter heißt Huber. Er wohnt auch hier."
+  },
+  {
+    "Word": "verstehen",
+    "Translation": "to understand",
+    "Sentence": "Können Sie mich verstehen?"
+  },
+  {
+    "Word": "der Verwandte, -n",
+    "Translation": "relative",
+    "Sentence": "Peter besucht seine Verwandten in Polen."
+  },
+  {
+    "Word": "viel",
+    "Translation": "many",
+    "Sentence": "Hier regnet es viel."
+  },
+  {
+    "Word": "vielleicht",
+    "Translation": "maybe",
+    "Sentence": "Ich komme vielleicht mit dem Bus."
+  },
+  {
+    "Word": "von",
+    "Translation": "from",
+    "Sentence": "Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause."
+  },
+  {
+    "Word": "vor",
+    "Translation": "before, in front of",
+    "Sentence": "Der Termin war vor einer Stunde. Das Auto steht vor der Tür."
+  },
+  {
+    "Word": "der Vorname, -n",
+    "Translation": "first name",
+    "Sentence": "Ich heiße Müller, mein Vorname ist Eva."
+  },
+  {
+    "Word": "die Vorsicht",
+    "Translation": "caution, beware",
+    "Sentence": "Vorsicht! Da kommt ein Auto."
+  },
+  {
+    "Word": "(sich) vorstellen",
+    "Translation": "to introduce oneself",
+    "Sentence": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
+  },
+  {
+    "Word": "die Vorwahl",
+    "Translation": "area code",
+    "Sentence": "Was ist die Vorwahl von München?"
+  },
+  {
+    "Word": "wandern",
+    "Translation": "to hike",
+    "Sentence": "Wir wandern um den Chiemsee."
+  },
+  {
+    "Word": "wann",
+    "Translation": "when",
+    "Sentence": "Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?"
+  },
+  {
+    "Word": "warten",
+    "Translation": "to wait",
+    "Sentence": "Können Sie ein paar Minuten warten? Auf wen warten Sie?"
+  },
+  {
+    "Word": "warum",
+    "Translation": "why",
+    "Sentence": "Warum kommt er nicht?"
+  },
+  {
+    "Word": "was",
+    "Translation": "what",
+    "Sentence": "Was ist das? Was möchten Sie?"
+  },
+  {
+    "Word": "was für ein",
+    "Translation": "what kind of",
+    "Sentence": "Was für eine Farbe möchten Sie?"
+  },
+  {
+    "Word": "(sich) waschen",
+    "Translation": "to wash",
+    "Sentence": "Wo kann ich mir die Hände waschen? Ich muss morgen waschen."
+  },
+  {
+    "Word": "das Wasser",
+    "Translation": "water",
+    "Sentence": "Ein Glas Wasser, bitte."
+  },
+  {
+    "Word": "weh tun",
+    "Translation": "to hurt",
+    "Sentence": "Ich muss zum Arzt. Mein Bein tut weh."
+  },
+  {
+    "Word": "weiblich",
+    "Translation": "feminine",
+    "Sentence": "Kreuzen Sie bitte an: \"weiblich\" oder \"männlich\"."
+  },
+  {
+    "Word": "der Wein",
+    "Translation": "wine",
+    "Sentence": "Nein danke, ich möchte keinen Wein."
+  },
+  {
+    "Word": "weit",
+    "Translation": "far",
+    "Sentence": "Zum Bahnhof ist es nicht weit."
+  },
+  {
+    "Word": "weiter",
+    "Translation": "farther",
+    "Sentence": "Der Bus fährt nicht weiter."
+  },
+  {
+    "Word": "welch-",
+    "Translation": "which",
+    "Sentence": "Welches Buch möchtest du?"
+  },
+  {
+    "Word": "die Welt",
+    "Translation": "world",
+    "Sentence": "Es gibt viele Probleme auf der Welt."
+  },
+  {
+    "Word": "wenig",
+    "Translation": "few",
+    "Sentence": "Ich habe leider nur wenig verstanden. Er verdient wenig."
+  },
+  {
+    "Word": "wer",
+    "Translation": "who",
+    "Sentence": "Wer ist das?"
+  },
+  {
+    "Word": "werden",
+    "Translation": "to become",
+    "Sentence": "Mein Sohn will Arzt werden."
+  },
+  {
+    "Word": "das Wetter",
+    "Translation": "weather",
+    "Sentence": "Wir hatten schlechtes Wetter."
+  },
+  {
+    "Word": "wichtig",
+    "Translation": "important",
+    "Sentence": "Dieses Formular ist sehr wichtig."
+  },
+  {
+    "Word": "wie",
+    "Translation": "how",
+    "Sentence": "Wie heißt du? Er schreibt wie ein Kind. Meine Frau ist so groß wie ich. Wie soll ich das machen? Wie groß ist die Wohnung? Wie bitte? Wie lange bist du schon hier?"
+  },
+  {
+    "Word": "wiederholen",
+    "Translation": "to repeat",
+    "Sentence": "Können Sie das bitte wiederholen?"
+  },
+  {
+    "Word": "das Wiederhören",
+    "Translation": "Goodbye (on the phone)",
+    "Sentence": "Wir müssen jetzt Schluss machen. Also auf Wiederhören!"
+  },
+  {
+    "Word": "das Wiedersehen",
+    "Translation": "Goodbye (in person)",
+    "Sentence": "Auf Wiedersehen!"
+  },
+  {
+    "Word": "wie viel",
+    "Translation": "how many",
+    "Sentence": "Wie viel Milch nehmen Sie?"
+  },
+  {
+    "Word": "willkommen",
+    "Translation": "welcome",
+    "Sentence": "Herzlich willkommen!"
+  },
+  {
+    "Word": "der Wind",
+    "Translation": "wind",
+    "Sentence": "Der Wind kommt aus Osten."
+  },
+  {
+    "Word": "wir",
+    "Translation": "we",
+    "Sentence": "Wir lernen Deutsch."
+  },
+  {
+    "Word": "wissen",
+    "Translation": "to know",
+    "Sentence": "Weißt du, wie er heißt?"
+  },
+  {
+    "Word": "wo",
+    "Translation": "where",
+    "Sentence": "Wo waren Sie im Urlaub? Wo ist die Post? Wo sind Sie geboren?"
+  },
+  {
+    "Word": "woher",
+    "Translation": "from where",
+    "Sentence": "Woher kommen Sie?"
+  },
+  {
+    "Word": "wohin",
+    "Translation": "to where",
+    "Sentence": "Wohin fährt dieser Bus? Wohin wollen Sie am Wochenende?"
+  },
+  {
+    "Word": "wohnen",
+    "Translation": "to live",
+    "Sentence": "Ich wohne in München."
+  },
+  {
+    "Word": "die Wohnung, -en",
+    "Translation": "apartment",
+    "Sentence": "Seit wann haben Sie diese Wohnung?"
+  },
+  {
+    "Word": "das Wort, -ö, er/-e",
+    "Translation": "word",
+    "Sentence": "Ich kenne das Wort nicht."
+  },
+  {
+    "Word": "wunderbar",
+    "Translation": "wonderful",
+    "Sentence": "Das Essen schmeckt wunderbar."
+  },
+  {
+    "Word": "zahlen",
+    "Translation": "to pay",
+    "Sentence": "Zahlen, bitte!"
+  },
+  {
+    "Word": "die Zeit",
+    "Translation": "time",
+    "Sentence": "ich habe heute keine Zeit."
+  },
+  {
+    "Word": "zurzeit",
+    "Translation": "at the moment",
+    "Sentence": "Zurzeit habe ich sehr viel zu tun."
+  },
+  {
+    "Word": "die Zeitung, -en",
+    "Translation": "newspaper",
+    "Sentence": "Ich lese gern Zeitung."
+  },
+  {
+    "Word": "die Zigarette, -n",
+    "Translation": "cigarette",
+    "Sentence": "Wie teuer sind die Zigaretten?"
+  },
+  {
+    "Word": "das Zimmer, -",
+    "Translation": "room",
+    "Sentence": "Das zimmer ist groß. Öffne im Schlafzimmer das Fenster, bitte! Die Wohnung hat drei Zimmer. Ih habe ein Zimmer bestellt."
+  },
+  {
+    "Word": "der Zoll",
+    "Translation": "customs",
+    "Sentence": "Wur müssen noch durch den Zoll."
+  },
+  {
+    "Word": "zu",
+    "Translation": "to",
+    "Sentence": "Der Bus fährt zum Bahnhof. Ich gehe zu Fuß. Ich bin zu Hause."
+  },
+  {
+    "Word": "zufrieden",
+    "Translation": "satisfied",
+    "Sentence": "Ich bin mit der Wohnung zufrieden."
+  },
+  {
+    "Word": "der Zug, -ü, e",
+    "Translation": "train",
+    "Sentence": "Ich fahre gern mit dem Zug."
+  },
+  {
+    "Word": "zurück",
+    "Translation": "back",
+    "Sentence": "Einmal Frankfurt und zurück. Wann kommst du zurück?"
+  },
+  {
+    "Word": "zusammen",
+    "Translation": "together",
+    "Sentence": "Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80."
+  },
+  {
+    "Word": "zwischen",
+    "Translation": "between",
+    "Sentence": "Heidelberg liegt zwischen Frankfurt und Stuttgart. Zwischen 8 und 10 Uhr bin ich zu Hause."
+  }
+]
