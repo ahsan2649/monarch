@@ -5,7 +5,7 @@ import 'package:monarch/widgets/session_screen/flashcard.dart';
 class FlashcardStack extends StatelessWidget {
   final List<FlashcardModel> cards;
   final int cardIndex;
-  final VoidCallback nextCard;
+  final DismissDirectionCallback nextCard;
 
   const FlashcardStack({
     super.key,
@@ -27,7 +27,7 @@ class FlashcardStack extends StatelessWidget {
         Dismissible(
           key: ValueKey(cards[cardIndex]),
           direction: DismissDirection.horizontal,
-          onDismissed: (direction) => nextCard(),
+          onDismissed: nextCard,
           child: Flashcard(flashcardInfo: cards[cardIndex]),
         ),
       ],

@@ -21,7 +21,7 @@ class _SessionScreenState extends State<SessionScreen> {
   int cardIndex = 0;
   List<FlashcardModel> wordlist = [];
 
-  void _nextCard() {
+  void _nextCard(DismissDirection direction) {
     setState(() {
       if (wordlist.isNotEmpty) {
         wordlist.removeAt(cardIndex);
@@ -38,22 +38,31 @@ class _SessionScreenState extends State<SessionScreen> {
       widget.sessionInfo.wordlistToUse.path,
     );
     final List<dynamic> wordlistJson = json.decode(wordlistFile);
-    final wordlistModel = WordlistModel(words: wordlistJson
-        .map(
-          (item) => WordlistItemModel(
-            word: item["Wort"] ?? item["Word"],
-            translation: item["Übersetzung"] ?? item["Translation"],
-            sentences: item["Satz"] ?? item["Sentence"],
-          ),
-        )
-        .toList());
+    final wordlistModel = WordlistModel(
+      words: wordlistJson
+          .map(
+            (item) => WordlistItemModel(
+              word: item["Wort"] ?? item["Word"],
+              translation: item["Übersetzung"] ?? item["Translation"],
+              sentences: item["Satz"] ?? item["Sentence"],
+            ),
+          )
+          .toList(),
+    );
 
     wordlistModel.words.shuffle(Random());
-    final int count = widget.sessionInfo.wordCount.clamp(1, wordlistModel.words.length);
-    
+    final int count = widget.sessionInfo.wordCount.clamp(
+      1,
+      wordlistModel.words.length,
+    );
+
     setState(() {
-      wordlist = wordlistModel.words
-          .take(count)
+      var words = List.generate(
+        widget.sessionInfo.repeatCount,
+        (i) => wordlistModel.words.take(count),
+      ).expand((i) => i).toList();
+      words.shuffle();
+      wordlist = words
           .map(
             (item) => FlashcardModel(
               frontText: item.word,
@@ -90,8 +99,18 @@ class _SessionScreenState extends State<SessionScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      IconButton(onPressed: _nextCard, icon: Icon(Icons.close)),
-                      IconButton(onPressed: _nextCard, icon: Icon(Icons.check)),
+                      IconButton(
+                        onPressed: () {
+                          _nextCard(DismissDirection.endToStart);
+                        },
+                        icon: Icon(Icons.close),
+                      ),
+                      IconButton(
+                        onPressed: () {
+                          _nextCard(DismissDirection.startToEnd);
+                        },
+                        icon: Icon(Icons.check),
+                      ),
                     ],
                   ),
                 ],
