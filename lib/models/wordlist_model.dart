@@ -4,4 +4,5 @@ class WordlistModel {
   final List<WordlistItemModel> words;
 
   const WordlistModel({required this.words});
+
 }

@@ -1,13 +1,10 @@
 import 'package:monarch/models/wordlist_info_model.dart';
 
 class SessionInfoModel {
-  final int wordCount;
-  final int repeatCount;
-  final WordlistInfoModel wordlistToUse;
+  int wordCount = 5;
+  int repeatCount = 3;
+  late WordlistInfoModel wordlistToUse;
 
-  const SessionInfoModel({
-    required this.wordCount,
-    required this.repeatCount,
-    required this.wordlistToUse,
-  });
+  SessionInfoModel();
+
 }

@@ -51,7 +51,10 @@ class _FlashcardState extends State<Flashcard> {
                 child: SizedBox(
                   width: 225,
                   height: 225,
-                  child: Center(child: Text(widget.flashcardInfo.frontText)),
+                  child: Padding(
+                    padding: const EdgeInsets.all(10.0),
+                    child: Center(child: Text(widget.flashcardInfo.frontText)),
+                  ),
                 ),
               )
             : Card(
@@ -60,7 +63,10 @@ class _FlashcardState extends State<Flashcard> {
                 child: SizedBox(
                   width: 225,
                   height: 225,
-                  child: Center(child: Text(widget.flashcardInfo.backText)),
+                  child: Padding(
+                    padding: const EdgeInsets.all(10.0),
+                    child: Center(child: Text(widget.flashcardInfo.backText)),
+                  ),
                 ),
               ),
       ),

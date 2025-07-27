@@ -4,18 +4,14 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:monarch/models/flashcard_model.dart';
+import 'package:monarch/models/session_info_model.dart';
+import 'package:monarch/models/wordlist_item_model.dart';
+import 'package:monarch/models/wordlist_model.dart';
 import 'package:monarch/widgets/session_screen/flashcard_stack.dart';
 
 class SessionScreen extends StatefulWidget {
-  final int wordCount;
-  final int repeatCount;
-  final Map<String, dynamic> selectedWordlist;
-  const SessionScreen({
-    super.key,
-    required this.wordCount,
-    required this.repeatCount,
-    required this.selectedWordlist,
-  });
+  final SessionInfoModel sessionInfo;
+  const SessionScreen({super.key, required this.sessionInfo});
 
   @override
   State<SessionScreen> createState() => _SessionScreenState();
@@ -39,21 +35,30 @@ class _SessionScreenState extends State<SessionScreen> {
 
   Future<void> _loadWordlist() async {
     final wordlistFile = await rootBundle.loadString(
-      widget.selectedWordlist["path"],
+      widget.sessionInfo.wordlistToUse.path,
     );
     final List<dynamic> wordlistJson = json.decode(wordlistFile);
-    List<Map<String, dynamic>> allWords = wordlistJson
-        .cast<Map<String, dynamic>>();
-    allWords.shuffle(Random());
-    final int count = widget.wordCount.clamp(1, allWords.length);
+    final wordlistModel = WordlistModel(words: wordlistJson
+        .map(
+          (item) => WordlistItemModel(
+            word: item["Wort"] ?? item["Word"],
+            translation: item["Übersetzung"] ?? item["Translation"],
+            sentences: item["Satz"] ?? item["Sentence"],
+          ),
+        )
+        .toList());
+
+    wordlistModel.words.shuffle(Random());
+    final int count = widget.sessionInfo.wordCount.clamp(1, wordlistModel.words.length);
+    
     setState(() {
-      wordlist = allWords
+      wordlist = wordlistModel.words
           .take(count)
           .map(
-            (word) => FlashcardModel(
-              frontText: word["Wort"] ?? word["Word"],
-              backText: word["Übersetzung"] ?? word["Translation"],
-              extraText: word["Satz"] ?? word["Sentence"],
+            (item) => FlashcardModel(
+              frontText: item.word,
+              backText: item.translation,
+              extraText: item.sentences,
             ),
           )
           .toList();
@@ -70,7 +75,7 @@ class _SessionScreenState extends State<SessionScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(widget.selectedWordlist["label"])),
+      appBar: AppBar(title: Text(widget.sessionInfo.wordlistToUse.name)),
       body: wordlist.isEmpty
           ? Center(child: CircularProgressIndicator())
           : Center(
