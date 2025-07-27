@@ -59,6 +59,10 @@
                 child: Column(
                   spacing: 10,
                   children: [
+                    WordlistSelector(
+                      selectedWordlist: sessionInfo.wordlistToUse.name,
+                      onPressed: switchWordlist,
+                    ),  
                     HorizontalCounter(
                       onIncrement: incrementWordCount,
                       onDecrement: decrementWordCount,
@@ -71,10 +75,7 @@
                       count: sessionInfo.repeatCount,
                       text: "Repeat Count",
                     ),
-                    WordlistSelector(
-                      selectedWordlist: sessionInfo.wordlistToUse.name,
-                      onPressed: switchWordlist,
-                    ),
+                    
                     ElevatedButton(
                       onPressed: () {
                         Navigator.push(

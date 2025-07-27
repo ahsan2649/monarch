@@ -12,12 +12,12 @@ class WordlistSelector extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return FilledButton.tonal(
-      style: FilledButton.styleFrom(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4)),
-      ),
+    return FilledButton.icon(
+      style: FilledButton.styleFrom(padding: EdgeInsets.all(24)),
       onPressed: onPressed,
-      child: Text(selectedWordlist, style: TextStyle(fontSize: 16)),
+      icon: Icon(Icons.list),
+      label: Text(selectedWordlist),
+      iconAlignment: IconAlignment.start,
     );
   }
 }
