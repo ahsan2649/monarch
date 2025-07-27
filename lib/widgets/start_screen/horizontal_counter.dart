@@ -19,8 +19,9 @@ class HorizontalCounter extends StatelessWidget {
     return Row(
       mainAxisSize: MainAxisSize.max,
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      spacing: 16,
       children: [
-        Padding(padding: EdgeInsets.all(7.0), child: Text(text)),
+        Text(text, style: TextStyle(fontSize: 16),),
         Card(
           child: Row(
             mainAxisSize: MainAxisSize.min,
@@ -32,7 +33,7 @@ class HorizontalCounter extends StatelessWidget {
                 onPressed: onDecrement,
                 icon: const Icon(Icons.chevron_left_rounded),
               ),
-              SizedBox(width: 28, child: Center(child: Text("$count"))),
+              SizedBox(width: 28, child: Center(child: Text("$count", style: TextStyle(fontSize: 14)))),
               IconButton(
                 visualDensity: VisualDensity.compact,
                 onPressed: onIncrement,

@@ -15,8 +15,8 @@ class WordlistSelector extends StatelessWidget {
     return FilledButton.icon(
       style: FilledButton.styleFrom(padding: EdgeInsets.all(24)),
       onPressed: onPressed,
-      icon: Icon(Icons.list),
-      label: Text(selectedWordlist),
+      icon: Icon(Icons.list, size: 28,),
+      label: Text(selectedWordlist, style: TextStyle(fontSize: 18),),
       iconAlignment: IconAlignment.start,
     );
   }

@@ -55,41 +55,44 @@
             children: [
               TitleCard(),
               SizedBox(
-                width: 250,
-                child: Column(
-                  spacing: 10,
-                  children: [
-                    WordlistSelector(
-                      selectedWordlist: sessionInfo.wordlistToUse.name,
-                      onPressed: switchWordlist,
-                    ),  
-                    HorizontalCounter(
-                      onIncrement: incrementWordCount,
-                      onDecrement: decrementWordCount,
-                      count: sessionInfo.wordCount,
-                      text: "Word Count",
-                    ),
-                    HorizontalCounter(
-                      onIncrement: incrementRepeatCount,
-                      onDecrement: decrementRepeatCount,
-                      count: sessionInfo.repeatCount,
-                      text: "Repeat Count",
-                    ),
-                    
-                    ElevatedButton(
-                      onPressed: () {
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (context) => SessionScreen(
-                              sessionInfo: sessionInfo,
+                width: 560,
+                child: Padding(
+                  padding: EdgeInsets.symmetric(vertical: 0, horizontal: 24),
+                  child: Column(
+                    spacing: 10,
+                    children: [
+                      WordlistSelector(
+                        selectedWordlist: sessionInfo.wordlistToUse.name,
+                        onPressed: switchWordlist,
+                      ),  
+                      HorizontalCounter(
+                        onIncrement: incrementWordCount,
+                        onDecrement: decrementWordCount,
+                        count: sessionInfo.wordCount,
+                        text: "Word Count",
+                      ),
+                      HorizontalCounter(
+                        onIncrement: incrementRepeatCount,
+                        onDecrement: decrementRepeatCount,
+                        count: sessionInfo.repeatCount,
+                        text: "Repeat Count",
+                      ),
+                      
+                      ElevatedButton(
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => SessionScreen(
+                                sessionInfo: sessionInfo,
+                              ),
                             ),
-                          ),
-                        );
-                      },
-                      child: Text("Start"),
-                    ),
-                  ],
+                          );
+                        },
+                        child: Text("Start", style: TextStyle(fontSize: 18)),
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ],
