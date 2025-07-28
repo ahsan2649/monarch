@@ -19,15 +19,23 @@ class SessionScreen extends StatefulWidget {
 
 class _SessionScreenState extends State<SessionScreen> {
   int cardIndex = 0;
+  List<FlashcardModel> sessionList = [];
   List<FlashcardModel> wordlist = [];
 
   void _nextCard(DismissDirection direction) {
     setState(() {
-      if (wordlist.isNotEmpty) {
-        wordlist.removeAt(cardIndex);
+      if (sessionList.isNotEmpty) {
+        var word = sessionList.removeAt(cardIndex);
+        if (direction == DismissDirection.startToEnd) {
+          wordlist.firstWhere((i) => i.frontText == word.frontText).rememberCount++;
+        }
+
+        if (direction == DismissDirection.endToStart) {
+          wordlist.firstWhere((i) => i.frontText == word.frontText).forgetCount++;
+        }
       }
 
-      if (cardIndex >= wordlist.length) {
+      if (cardIndex >= sessionList.length) {
         Navigator.pop(context);
       }
     });
@@ -57,11 +65,7 @@ class _SessionScreenState extends State<SessionScreen> {
     );
 
     setState(() {
-      var words = List.generate(
-        widget.sessionInfo.repeatCount,
-        (i) => wordlistModel.words.take(count),
-      ).expand((i) => i).toList();
-      words.shuffle();
+      var words = wordlistModel.words.take(count).toList();
       wordlist = words
           .map(
             (item) => FlashcardModel(
@@ -71,6 +75,21 @@ class _SessionScreenState extends State<SessionScreen> {
             ),
           )
           .toList();
+      sessionList = List.generate(widget.sessionInfo.repeatCount, (i) => words)
+          .expand((i) {
+            i.shuffle();
+            return i;
+          })
+          .toList()
+          .map(
+            (item) => FlashcardModel(
+              frontText: item.word,
+              backText: item.translation,
+              extraText: item.sentences,
+            ),
+          )
+          .toList();
+      sessionList.shuffle();
       cardIndex = 0;
     });
   }
@@ -85,14 +104,14 @@ class _SessionScreenState extends State<SessionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(widget.sessionInfo.wordlistToUse.name)),
-      body: wordlist.isEmpty
+      body: sessionList.isEmpty
           ? Center(child: CircularProgressIndicator())
           : Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   FlashcardStack(
-                    cards: wordlist,
+                    cards: sessionList,
                     cardIndex: cardIndex,
                     nextCard: _nextCard,
                   ),
