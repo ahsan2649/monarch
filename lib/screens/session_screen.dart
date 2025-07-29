@@ -7,6 +7,7 @@ import 'package:monarch/models/flashcard_model.dart';
 import 'package:monarch/models/session_info_model.dart';
 import 'package:monarch/models/wordlist_item_model.dart';
 import 'package:monarch/models/wordlist_model.dart';
+import 'package:monarch/screens/results_screen.dart';
 import 'package:monarch/widgets/session_screen/flashcard_stack.dart';
 
 class SessionScreen extends StatefulWidget {
@@ -19,24 +20,39 @@ class SessionScreen extends StatefulWidget {
 
 class _SessionScreenState extends State<SessionScreen> {
   int cardIndex = 0;
-  List<FlashcardModel> sessionList = [];
   List<FlashcardModel> wordlist = [];
+  List<FlashcardModel> sessionList = [];
 
   void _nextCard(DismissDirection direction) {
     setState(() {
       if (sessionList.isNotEmpty) {
         var word = sessionList.removeAt(cardIndex);
         if (direction == DismissDirection.startToEnd) {
-          wordlist.firstWhere((i) => i.frontText == word.frontText).rememberCount++;
+          wordlist
+              .firstWhere((i) => i.frontText == word.frontText)
+              .rememberCount++;
+          wordlist
+              .firstWhere((i) => i.frontText == word.frontText)
+              .reviewCount++;
         }
 
         if (direction == DismissDirection.endToStart) {
-          wordlist.firstWhere((i) => i.frontText == word.frontText).forgetCount++;
+          wordlist
+              .firstWhere((i) => i.frontText == word.frontText)
+              .forgetCount++;
+          wordlist
+              .firstWhere((i) => i.frontText == word.frontText)
+              .reviewCount++;
         }
       }
 
       if (cardIndex >= sessionList.length) {
-        Navigator.pop(context);
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(
+            builder: (context) => ResultsScreen(wordlist: wordlist),
+          ),
+        );
       }
     });
   }

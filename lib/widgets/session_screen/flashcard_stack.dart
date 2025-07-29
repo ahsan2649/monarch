@@ -21,7 +21,7 @@ class FlashcardStack extends StatelessWidget {
       children: [
         if (cardIndex < cards.length - 1)
           Card(
-            color: Colors.grey[300],
+            color: Theme.of(context).dividerColor,
             child: SizedBox(width: 225, height: 225),
           ),
         Dismissible(
